@@ -31,6 +31,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   development teams.
 
 
+#### Media Services
+
+* [Hearken] (https://www.wearehearken.com) ([Github](https://github.com/wearehearken/)) - Hearken provides process consulting and supporting technology for media organizations to better engage with their audience.
+
+
 #### Sustainability Technology
 
 * [imby.bio](http://imby.bio/)
