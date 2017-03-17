@@ -24,7 +24,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Pivotal Tracker provide a project management tool for agile software
   development teams.
 
-#### Other
+#### Media Services
 
 * [Hearken] (https://www.wearehearken.com) ([Github](https://github.com/wearehearken/)) - Hearken provides process consulting and supporting technology for media organizations to better engage with their audience.
 
