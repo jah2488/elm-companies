@@ -11,10 +11,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### Education
 
-* [NoRedInk](https://www.noredink.com)
+* [NoRedInk](https://www.noredink.com/)
   ([GitHub](https://github.com/NoRedInk)) -
   NoRedInk provide a language learning platform for children. Evan Czaplicki,
-  the creator of Elm is a NoRedInk employee.
+  the creator of Elm, is a NoRedInk employee.
 
 
 #### Project Management
