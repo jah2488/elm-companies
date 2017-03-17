@@ -14,7 +14,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [NoRedInk](https://usecanvas.com)
   ([GitHub](https://github.com/usecanvas)) -
   NoRedInk provide a language learning platform for children. Evan Czaplicki,
-  the creator of Elm is a NoRedInk employee.
+  the creator of Elm, is a NoRedInk employee.
 
 
 #### Project Management
