@@ -11,10 +11,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### Education
 
-* [NoRedInk](https://www.noredink.com/)
-  ([GitHub](https://github.com/NoRedInk)) -
+* [NoRedInk](https://usecanvas.com)
+  ([GitHub](https://github.com/usecanvas)) -
   NoRedInk provide a language learning platform for children. Evan Czaplicki,
-  the creator of Elm, is a NoRedInk employee.
+  the creator of Elm is a NoRedInk employee.
 
 
 #### Project Management
@@ -24,13 +24,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Pivotal Tracker provide a project management tool for agile software
   development teams.
 
+#### Other
 
-#### Sustainability Technology
-
-* [imby.bio](http://imby.bio/)
-  ([Gitlab](https://gitlab.com/imby.bio), [GitHub](https://github.com/imbybio/)) -
-  imby.bio helps individuals bring nature back in to their urban environment.
-
+* [Hearken] (https://www.wearehearken.com) ([Github](https://github.com/wearehearken/)) - Hearken provides process consulting and supporting technology for media organizations to better engage with their audience.
 
 ## Contributing
 
