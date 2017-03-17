@@ -8,3 +8,4 @@ Review your changes and complete the checklist below.
 - [ ] GitHub link
 - [ ] How Elixir is used
 - [ ] Sorted alphabetically
+- [ ] Lines wrapped at 80 chars
