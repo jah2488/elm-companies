@@ -25,6 +25,13 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   development teams.
 
 
+#### Sustainability Technology
+
+* [imby.bio](http://imby.bio/)
+  ([Gitlab](https://gitlab.com/imby.bio), [GitHub](https://github.com/imbybio/)) -
+  imby.bio helps individuals bring nature back in to their urban environment.
+
+
 ## Contributing
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
