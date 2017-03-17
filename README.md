@@ -8,6 +8,12 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 [elixir-companies]: https://github.com/doomspork/elixir-companies
 
+#### Consulting
+
+* [Test Double](http://testdouble.com) 
+  ([Github](https://github.com/testdouble)) - Test Double is an agency 
+  of highly-skilled developers on a mission to improve how the world 
+  writes software.
 
 #### Education
 
