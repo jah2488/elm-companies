@@ -6,6 +6,5 @@ Review your changes and complete the checklist below.
 - [ ] Company description
 - [ ] Company location
 - [ ] GitHub link
-- [ ] How Elm is used
 - [ ] Sorted alphabetically
 - [ ] Lines wrapped at 80 chars
