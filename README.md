@@ -77,6 +77,14 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   development teams.
 
 
+#### Rummage sales
+
+* [Spottt](https://spottt.fr/)
+  ([GitHub](https://github.com/spottt)) - Spottt develops
+  [MyBrocante](https://mybrocante.fr), an online tool for managing rummage
+  sales.
+
+
 #### Sustainability Technology
 
 * [imby.bio](http://imby.bio/)
