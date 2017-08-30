@@ -73,8 +73,15 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 * [PivotalTracker](https://www.pivotaltracker.com/)
   ([GitHub](https://github.com/pivotaltracker)) -
-  Pivotal Tracker provide a project management tool for agile software
+  Pivotal Tracker provides a project management tool for agile software
   development teams.
+  
+
+#### Productivity
+
+* [Day One](https://www.dayoneapp.com/)
+  ([GitHub](https://github.com/bloom)) -
+  Day One is a simple and beautiful way to archive your life.
 
 
 #### Rummage sales
