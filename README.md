@@ -73,7 +73,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 * [PivotalTracker](https://www.pivotaltracker.com/)
   ([GitHub](https://github.com/pivotaltracker)) -
-  Pivotal Tracker provides a project management tool for agile software
+  Pivotal Tracker provide a project management tool for agile software
   development teams.
   
 
