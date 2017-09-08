@@ -105,15 +105,18 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/BeautifulDestinations)) - Beautiful
   Destinations is the award-winning creative agency behind the largest travel
   community on social media.
-* [AS Tallink Grupp](https://www.tallink.com/) - one of the biggest 
-shipping companies currently operating in the Baltic Sea, with cruise and 
-shuttle ships traveling between Tallinn, Helsinki, Stockholm, Riga and other 
-cities. The [mobile booking site for Tallink](https://mobile.tallink.com) was 
+* [AS Tallink Grupp](https://www.tallink.com/) 
+([GitHub](https://github.com/Tallink)) - one of the biggest shipping companies 
+currently operating in the Baltic Sea, with cruise and shuttle ships traveling 
+between Tallinn, Helsinki, Stockholm, Riga and other cities. The main office 
+is located in Tallinn, Estonia. 
+The [mobile booking site for Tallink](https://mobile.tallink.com) was 
 partially rewritten to Elm. It consists of two SPAs (booking and confirmation). 
 One of them is fully written in Elm, the other one is ongoing the 
 migration to Elm and features a few smaller components written in the wonderful 
 Elm. The page is visited by over 300,000 - 400,000 users every month 
 (depends if it's high season or not) with millions of page views.
+
 
 
 ## Contributing
