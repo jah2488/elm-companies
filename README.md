@@ -18,9 +18,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 #### Consulting
 
 * [Adrima](https://adrima.es)
-  ([Github](https://github.com/AdrianRibao)) ([Medium](https://medium.com/@adrian_ribao))-
-  Adrima is a development company with more than 10 years of experience who
-  loves building software using the greatest technologies. We use Elm
+  ([Github](https://github.com/AdrianRibao))
+  ([Medium](https://medium.com/@adrian_ribao))-
+  Adrima is a Spanish development company with more than 10 years of experience
+  who loves building software using the greatest technologies. We use Elm
   extensively in our [product related to employment](https://empleo.digital).
 * [Futurice](http://futurice.com/)
   ([GitHub](https://github.com/futurice)) -
