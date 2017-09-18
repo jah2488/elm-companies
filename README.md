@@ -14,6 +14,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/CARFAX)) -
   CARFAX provide a comprehensive vehicle history database for North America.
 
+#### Banking
+
+* [CBANC Network](https://www.cbancnetwork.com) - Largest network of banking 
+  professionals with tools for banks to collaborate as well as manage their 
+  business. We have converted all new front-end development to Elm.
 
 #### Consulting
 
