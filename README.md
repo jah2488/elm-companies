@@ -51,6 +51,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### Education
 
+* [Mimo](https://getmimo.com)
+  ([Github](https://github.com/getmimo)) -
+  We're on a mission to find the best way to learn in a digital world.
 * [NoRedInk](https://www.noredink.com/)
   ([GitHub](https://github.com/NoRedInk)) -
   NoRedInk provide a language learning platform for children. Evan Czaplicki,
