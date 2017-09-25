@@ -30,7 +30,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   extensively in our [product related to employment](https://empleo.digital).
 * [Bendyworks](https://bendyworks.com)
   ([GitHub](https://github.com/bendyworks)) - Bendyworks is a team of passionate
-  developers dedicated to sharing joy and success in our craft.
+  developers in Madison, Wisconsin dedicated to sharing joy and success in our
+  craft.
 * [Futurice](http://futurice.com/)
   ([GitHub](https://github.com/futurice)) -
   Futurice helps clients generate innovative ideas and turn them into
