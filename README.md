@@ -73,6 +73,13 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/truqu)) -
   TruQu provide a HR solution to collect and analyze feedback, giving
   employees control over their own development.
+  
+
+#### Location Marketing
+
+* [PinMeTo](http://www.pinmeto.com)
+  ([Github](https://github.com/PinMeTo)) - location based marketing technology
+  company.
 
 
 #### Media Services
