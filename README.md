@@ -66,6 +66,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/circuithub)) - CircuitHub provide on demand
   electronics manufacturing with instant quotes.
 
+#### Healthcare
+* [SMRxT](https://nomiadherence.com/)
+  ([Blog](https://engineering.smrxt.com/)) - SMRxT’s medication adherence system, Nomi, records patient medication behavior as it happens. By using real-time insights, the system reinforces positive behavior and intervenes to help patients take their medication and continue their treatment.
+
 
 #### Human Resources
 
