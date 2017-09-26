@@ -28,6 +28,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Adrima is a Spanish development company with more than 10 years of experience
   who loves building software using the greatest technologies. We use Elm
   extensively in our [product related to employment](https://empleo.digital).
+* [Bendyworks](https://bendyworks.com)
+  ([GitHub](https://github.com/bendyworks)) - Bendyworks is a team of passionate
+  developers in Madison, Wisconsin dedicated to sharing joy and success in our
+  craft.
 * [Futurice](http://futurice.com/)
   ([GitHub](https://github.com/futurice)) -
   Futurice helps clients generate innovative ideas and turn them into
