@@ -111,6 +111,12 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Day One](https://www.dayoneapp.com/)
   ([GitHub](https://github.com/bloom)) -
   Day One is a simple and beautiful way to archive your life.
+  
+  
+#### Real Estate
+
+* [EXR](https://www.exrny.com/) - EXR is a residential and commercial real estate 
+  brokerage building a better experience for buying, selling, and leasing real estate.
 
 
 #### Rummage sales
