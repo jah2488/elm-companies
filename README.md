@@ -62,6 +62,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/NoRedInk)) -
   NoRedInk provide a language learning platform for children. Evan Czaplicki,
   the creator of Elm, is a NoRedInk employee.
+* [DailyDrip](https://www.dailydrip.com/)
+  ([GitHub](https://github.com/dailydrip)) -
+  DailyDrip is a continuous education platform.  Daily bite-sized videos on new tech.
 
 
 #### Electronics
