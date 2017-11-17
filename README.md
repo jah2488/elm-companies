@@ -114,6 +114,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Day One](https://www.dayoneapp.com/)
   ([GitHub](https://github.com/bloom)) -
   Day One is a simple and beautiful way to archive your life.
+* [RexPad](https://www.rexpad.com/) -
+  Nimble collaborative note-taking.
   
   
 #### Real Estate
