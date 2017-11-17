@@ -11,8 +11,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 #### Automotive
 
 * [CARFAX](https://www.carfax.com/)
-  ([GitHub](https://github.com/CARFAX)) -
-  CARFAX provide a comprehensive vehicle history database for North America.
+  ([GitHub](https://github.com/CARFAX)) - CARFAX provide a comprehensive vehicle history database for North America.
+ 
+* [carwow](https://www.carwow.co.uk/) ([GitHub](https://github.com/carwow)) -
+  carwow is the most convenient, stress-free way to find and buy a new car, at a price you can be confident in, and we love Elm!
 
 #### Banking
 
