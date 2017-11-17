@@ -45,14 +45,6 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   writes software.
 
 
-#### Communications
-
-* [Prezi](https://prezi.com/)
-  ([GitHub](https://github.com/prezi)) -
-  Prezi build software that enables the creation of distinctive
-  presentations.
-
-
 #### Education
 
 * [DailyDrip](https://www.dailydrip.com/)
