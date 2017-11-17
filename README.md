@@ -90,6 +90,12 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   company.
 
 
+#### Logistics
+
+* [Logistically](https://logisticallyinc.com) - Transportation management
+  SaaS for 3PLs, brokers, and shippers.
+
+
 #### Media Services
 
 * [Hearken](https://www.wearehearken.com)
