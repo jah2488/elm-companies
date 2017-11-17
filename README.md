@@ -55,6 +55,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### Education
 
+* [DailyDrip](https://www.dailydrip.com/)
+  ([GitHub](https://github.com/dailydrip)) -
+  DailyDrip is a continuous education platform.  Daily bite-sized videos on new tech.
 * [Mimo](https://getmimo.com)
   ([Github](https://github.com/getmimo)) -
   We're on a mission to find the best way to learn in a digital world.
