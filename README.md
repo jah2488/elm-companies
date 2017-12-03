@@ -8,19 +8,27 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 [elixir-companies]: https://github.com/doomspork/elixir-companies
 
+#### Advertising
+
+* [Honeycomb](https://honeycomb.tv)
+  ([GitHub](https://github.com/honeycomb-tv)) - Supercharged video advertising
+  delivery. Faster delivery and better collaboration for brands, broadcasters
+  and everyone in between.
+
 #### Automotive
 
 * [CARFAX](https://www.carfax.com/)
-  ([GitHub](https://github.com/CARFAX)) - CARFAX provide a comprehensive vehicle history database for North America.
- 
+  ([GitHub](https://github.com/CARFAX)) - CARFAX provide a comprehensive
+  vehicle history database for North America.
+
 * [carwow](https://www.carwow.co.uk/) ([GitHub](https://github.com/carwow)) -
-Based in London and Munich, carwow is the most convenient, stress-free way to 
-find and buy a new car, at a price you can be confident in, and we love Elm!
+  Based in London and Munich, carwow is the most convenient, stress-free way to
+  find and buy a new car, at a price you can be confident in, and we love Elm!
 
 #### Banking
 
-* [CBANC Network](https://www.cbancnetwork.com) - Largest network of banking 
-  professionals with tools for banks to collaborate as well as manage their 
+* [CBANC Network](https://www.cbancnetwork.com) - Largest network of banking
+  professionals with tools for banks to collaborate as well as manage their
   business. We have converted all new front-end development to Elm.
 
 #### Consulting
@@ -70,7 +78,10 @@ find and buy a new car, at a price you can be confident in, and we love Elm!
 
 #### Healthcare
 * [SMRxT](https://nomiadherence.com/)
-  ([Blog](https://engineering.smrxt.com/)) - SMRxT’s medication adherence system, Nomi, records patient medication behavior as it happens. By using real-time insights, the system reinforces positive behavior and intervenes to help patients take their medication and continue their treatment.
+  ([Blog](https://engineering.smrxt.com/)) - SMRxT’s medication adherence
+  system, Nomi, records patient medication behavior as it happens. By using
+  real-time insights, the system reinforces positive behavior and intervenes
+  to help patients take their medication and continue their treatment.
 
 
 #### Human Resources
@@ -79,7 +90,7 @@ find and buy a new car, at a price you can be confident in, and we love Elm!
   ([GitHub](https://github.com/truqu)) -
   TruQu provide a HR solution to collect and analyze feedback, giving
   employees control over their own development.
-  
+
 
 #### Location Marketing
 
@@ -108,7 +119,7 @@ find and buy a new car, at a price you can be confident in, and we love Elm!
   ([GitHub](https://github.com/pivotaltracker)) -
   Pivotal Tracker provide a project management tool for agile software
   development teams.
-  
+
 
 #### Productivity
 
@@ -117,13 +128,13 @@ find and buy a new car, at a price you can be confident in, and we love Elm!
   Day One is a simple and beautiful way to archive your life.
 * [RexPad](https://www.rexpad.com/) -
   Nimble collaborative note-taking.
-  
-  
+
+
 #### Real Estate
 
 * [EXR](https://www.exrny.com/)
-  ([GitHub](https://github.com/exrny)) - EXR is a residential and commercial 
-  real estate brokerage building a better experience for buying, selling, 
+  ([GitHub](https://github.com/exrny)) - EXR is a residential and commercial
+  real estate brokerage building a better experience for buying, selling,
   and leasing real estate.
 
 
@@ -136,7 +147,7 @@ find and buy a new car, at a price you can be confident in, and we love Elm!
 
 #### Social Media
 
-* [wonktonk](https://wonktonk.com/) - Where policy wonks propose and refine 
+* [wonktonk](https://wonktonk.com/) - Where policy wonks propose and refine
   solutions to challenging public problems
 
 #### Sustainability Technology
@@ -152,11 +163,11 @@ find and buy a new car, at a price you can be confident in, and we love Elm!
   ([GitHub](https://github.com/BeautifulDestinations)) - Beautiful
   Destinations is the award-winning creative agency behind the largest travel
   community on social media.
-* [AS Tallink Grupp](https://www.tallink.com/) 
-([GitHub](https://github.com/Tallink)) - one of the 
-biggest shipping companies currently operating in the Baltic Sea, with cruise and 
-shuttle ships traveling between Tallinn, Helsinki, Stockholm, Riga and other major 
-cities in the region.
+* [AS Tallink Grupp](https://www.tallink.com/)
+  ([GitHub](https://github.com/Tallink)) - one of the biggest shipping
+  companies currently operating in the Baltic Sea, with cruise and shuttle
+  ships traveling between Tallinn, Helsinki, Stockholm, Riga and other major
+  cities in the region.
 
 
 
