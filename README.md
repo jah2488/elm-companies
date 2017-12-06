@@ -121,6 +121,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   development teams.
 
 
+#### Product Sampling
+
+* [SoPost](https://www.sopost.com/) - SoPost is a product sampling platform. We make use of Elixir & OTP (_and a few other things_) to provide a performant system that aids our mission to become the world's best product sampling company. Currently, [Our GH repo](https://github.com/SoPost) is all private, but we are looking to open up some of the technology we've developed.  Nearly always hiring in Newcastle & Edinburgh (UK).
+
+
 #### Productivity
 
 * [Day One](https://www.dayoneapp.com/)
