@@ -121,6 +121,12 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   development teams.
 
 
+#### Product Sampling
+
+* [SoPost](https://www.sopost.com/) - SoPost is a product sampling platform.
+Nearly always hiring in Newcastle & Edinburgh (UK).
+
+
 #### Productivity
 
 * [Day One](https://www.dayoneapp.com/)
