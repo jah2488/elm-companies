@@ -124,12 +124,6 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 #### Product Sampling
 
 * [SoPost](https://www.sopost.com/) - SoPost is a product sampling platform.
-Users access our technology predominantly through in-app browsers, and we
-chose Elm because it gives us confidence that our user interfaces will
-perform how we intend.
-We use Elm for all of our public UIs and the majority of our internal tools.
-Currently, [Our GH repo](https://github.com/SoPost) is all private,
-but we are looking to open up some of the technology we've developed.
 Nearly always hiring in Newcastle & Edinburgh (UK).
 
 
