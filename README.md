@@ -113,6 +113,13 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   engage with their audience.
 
 
+### Planning
+
+* [KOVnet](http://www.kovnet.nl)
+  ([GitHub](https://github.com/kdvnet)) - Planning for daycare centers.
+  Planning children and careworkers, invoicing parents.
+
+
 #### Project Management
 
 * [PivotalTracker](https://www.pivotaltracker.com/)
