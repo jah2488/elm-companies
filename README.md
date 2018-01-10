@@ -54,7 +54,12 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/testdouble)) - Test Double is an agency
   of highly-skilled developers on a mission to improve how the world
   writes software.
-
+* [thoughtbot](https://thoughtbot.com/services/elm)
+  ([GitHub](https://github.com/thoughtbot))
+  ([Blog](https://robots.thoughtbot.com/tags/elm)) -
+  With over 10 years of experience, offices in major tech hubs, and a staff of
+  developers and designers from startup backgrounds, thoughtbot can assist in
+  all steps of the business and development process.
 
 #### Education
 
