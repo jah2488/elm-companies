@@ -99,7 +99,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 #### FinTech
 
 * [iZettle](https://www.izettle.com) ([GitHub](https://github.com/iZettle))
-  iZettle is a one-stop shop for cutting-edge commerce tools — offering everything you need to take quick payments, ease day-to-day management, and get the funding to grow.
+  iZettle is a one-stop shop for cutting-edge commerce tools — offering
+  everything you need to take quick payments, ease day-to-day management,
+  and get the funding to grow.
 
 #### Location Marketing
 
