@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/lpil/elm-companies.svg?branch=master)](https://travis-ci.org/lpil/elm-companies)
-
 # Elm Companies
 
 A curated list of companies using Elm in production, organized by industry.
