@@ -73,6 +73,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/NoRedInk)) -
   NoRedInk provide a language learning platform for children. Evan Czaplicki,
   the creator of Elm, is a NoRedInk employee.
+* [Roompact](https://roompact.com/) -
+  Roompact is a Chicago-based company that makes a residential education,
+  learning, and engagement platform used by university residence life
+  departments.
 
 
 #### Electronics
