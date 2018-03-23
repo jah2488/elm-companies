@@ -124,7 +124,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/wearehearken/)) - Hearken provides process
   consulting and supporting technology for media organizations to better
   engage with their audience.
-
+* [Nomalab](https://www.nomalab.com)
+  ([GitHub](https://github.com/nomalab/)) - Nomalab is a digital logistics
+  platform for producers, content owners, distributors, broadcasters and
+  publishers.
 
 ### Planning
 
