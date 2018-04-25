@@ -134,6 +134,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [KOVnet](http://www.kovnet.nl)
   ([GitHub](https://github.com/kdvnet)) - Planning for daycare centers.
   Planning children and careworkers, invoicing parents.
+* [Wejoinin](https://www.wejoinin.com)
+  ([GitHub](https://github.com/wejoinin)) - Signup sheets for event planning
+  and volunteer management.
+
 
 
 #### Project Management
