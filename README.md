@@ -6,13 +6,6 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 [elixir-companies]: https://github.com/doomspork/elixir-companies
 
-#### Advertising
-
-* [Honeycomb](https://honeycomb.tv)
-  ([GitHub](https://github.com/honeycomb-tv)) - Supercharged video advertising
-  delivery. Faster delivery and better collaboration for brands, broadcasters
-  and everyone in between.
-
 #### Automotive
 
 * [CARFAX](https://www.carfax.com/)
