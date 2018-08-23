@@ -194,9 +194,40 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
   companies currently operating in the Baltic Sea, with cruise and shuttle
   ships traveling between Tallinn, Helsinki, Stockholm, Riga and other major
   cities in the region.
-
-
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+* [ThomasCook Money > "Roam" (Travel Insurance)](https://roaminsure.co.uk)
+  ([GitHub](https://github.com/ThomasCookOnline)) - ThomasCook ("TCG")
+  is a 177 year old Travel company famous for _inventing_
+  and popularising "all-inclusive package holidays".
+  The Elm Elm Progressive Web Application (PWA)
+  is hosted at: https://roaminsure.co.uk (feedback welcome!)
+  TCG is listed on the London Stock Exchange (FTSE 250) and is,
+  as far as we know, the "biggest" (by revenue/users) company
+  using Elm in production to date.
+  This is not to "brag" as the "Roam Insure"
+  is nowhere near the size/scope of NoRedInk or Cuture Amp,
+  rather it's to _re-assure_ anyone out there considering using Elm
+  for their next App (_or portion of functionality_)
+  that ELm is more than "mature" and "reliable" (enough) for a "big company"
+  to take a (calculated) "risk" on. Elm is Awesome!! <br />
+  The App was built as a _collaborative_ effort between an "in-house"
+  leadership team (Product Owner, UX Designer, Scrum Master, Security & CTO),
+  and _external_ developers [@dwyl](https://github.com/dwyl) (London),
+  Globant (UK + Argentina), Ciklum (Ukraine)
+  & Contino (DevOps). (21 people in total!)
+  ThomasCook has several dozen web "products" (apps/sites) in 18 languages
+  ranging from an end-to-end travel booking & management e-commerce websites
+  and several "native" apps for travel-related use-cases.
+  Angular, Vue.js and React (inc React Native) have all been used
+  _extensively_ in the past to varying degrees of success.
+  When we got a chance to "pitch" to re-build
+  the Travel Insurance product "from scratch",
+  we explained why/how ELm _elminates_ the most "insidious" bugs
+  (Type errors, JSON decoding failure
+    and other unexpected/unpredictable behaviour)
+  TCG has faced in the past, we framed the (initial) "re-tooling" investment
+  as a "Total Cost of Ownership" saving
+  (_we estimate Elm will save TCG 70% costs over the 2 years!_)
+  it was an _easy_ decision to _scrap_ the React codebase and start fresh!
+  Since launching the app there have been an influx of people _applying_
+  to work for TCG _specifically_ because of the "functional" tech stack;
+  it's a _not_ "difficult to find developers" who _love_ Elm.
