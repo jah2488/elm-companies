@@ -82,7 +82,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   system, Nomi, records patient medication behavior as it happens. By using
   real-time insights, the system reinforces positive behavior and intervenes
   to help patients take their medication and continue their treatment.
-
+* [Illuminate](https://www.goilluminate.com) -
+  Illuminate equips radiology departments with critical data to save time and money, improve quality and safety, monitor productivity     and efficiency, and enhance diagnostic accuracy.
 
 #### Human Resources
 
