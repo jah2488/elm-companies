@@ -77,7 +77,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   electronics manufacturing with instant quotes.
 
 #### Healthcare
-* [Illuminate](https://www.goilluminate.com)([Github](https://github.com/GoIlluminate)) -
+* [Illuminate](https://www.goilluminate.com) ([Github](https://github.com/GoIlluminate)) -
   Illuminate equips radiology departments with critical data to save time 
   and money, improve quality and safety, monitor productivity     
   and efficiency, and enhance diagnostic accuracy.
