@@ -104,7 +104,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### LawTech
 
-* [CalculoJuridico](https://calculojuridico.com.br/) ([Github](https://github.com/CalculoJuridico)) - CalculoJuridico is a lawtech solution to help Brazilian lawyers calculate their client retirement options. Our new front-end is being rebuild from zero with Elm as of September 2018.
+* [CalculoJuridico](https://calculojuridico.com.br/) 
+([Github](https://github.com/CalculoJuridico)) - CalculoJuridico is a lawtech
+solution to help Brazilian lawyers calculate their client retirement options.
+Our new front-end is being rebuild from zero with Elm as of September 2018.
 
 #### Location Marketing
 
