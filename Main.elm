@@ -1,8 +1,6 @@
 module Main exposing (..)
 
-import Html exposing (..)
 
-
-main : Html a
+main : String
 main =
-    text "Hello, world!"
+    "Hello, world!"
