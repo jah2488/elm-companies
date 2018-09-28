@@ -163,7 +163,8 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
 * [Day One](https://www.dayoneapp.com/)
   ([GitHub](https://github.com/bloom)) -
   Day One is a simple and beautiful way to archive your life.
-* [Level](https://level.app) ([GitHub](https://github.com/levelhq/level)) - Distraction-free communication for software teams.
+* [Level](https://level.app) ([GitHub](https://github.com/levelhq/level)) - 
+  Distraction-free communication for software teams.
 * [RexPad](https://www.rexpad.com/) -
   Nimble collaborative note-taking.
 
