@@ -102,6 +102,15 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   everything you need to take quick payments, ease day-to-day management,
   and get the funding to grow.
 
+#### Gaming
+
+* [Knipster](https://www.knipster.com)
+  Knipster is a Live Fantasy Football application where you can compete
+  with your friends, colleagues and other football fans.
+  Create your own group and invite your mates to compete during real
+  football matches.
+  Based in Malta.
+
 #### LawTech
 
 * [CalculoJuridico](https://calculojuridico.com.br/) 
