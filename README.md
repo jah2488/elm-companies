@@ -41,6 +41,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Gizra](http://www.gizra.com/)
   ([GitHub](https://github.com/Gizra)) -
   Gizra build websites.
+* [jambit](https://jambit.com) -
+  jambit is an innovative software company. We offer conception and development
+  of customer-specific software solutions and draw on various industry
+  expertise and the latest technological know-how.
 * [Test Double](http://testdouble.com)
   ([GitHub](https://github.com/testdouble)) - Test Double is an agency
   of highly-skilled developers on a mission to improve how the world
