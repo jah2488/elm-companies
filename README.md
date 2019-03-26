@@ -148,6 +148,8 @@ Our new front-end is being rebuild from zero with Elm as of September 2018.
 
 ### Planning
 
+* [IBM]'s [Decision Composer] app makes heavy use of Elm.
+  [Discourse announcement](IBM-Discourse).
 * [KOVnet](http://www.kovnet.nl)
   ([GitHub](https://github.com/kdvnet)) - Planning for daycare centers.
   Planning children and careworkers, invoicing parents.
@@ -155,6 +157,9 @@ Our new front-end is being rebuild from zero with Elm as of September 2018.
   ([GitHub](https://github.com/wejoinin)) - Signup sheets for event planning
   and volunteer management.
 
+[IBM]: https://www.ibm.com/au-en/
+[Decision Composer]: https://decision-composer.ibm.com/
+[IBM-Discourse]: https://discourse.elm-lang.org/t/ibm-releases-elm-powered-app/2364
 
 
 #### Project Management
