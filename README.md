@@ -93,7 +93,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 
 #### Human Resources
-
+* [Culture Amp](https://cultureamp.com) ([Github](https://github.com/cultureamp))
+  Culture Amp makes it easy to collect, understand and act on employee feedback.
 * [TruQu](https://truqu.com/)
   ([GitHub](https://github.com/truqu)) -
   TruQu provide a HR solution to collect and analyze feedback, giving
