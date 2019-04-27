@@ -95,6 +95,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 #### Human Resources
 * [Culture Amp](https://cultureamp.com) ([Github](https://github.com/cultureamp))
   Culture Amp makes it easy to collect, understand and act on employee feedback.
+  Based in Melbourne with offices in San Francisco, New York, Palo Alto, and London.
 * [TruQu](https://truqu.com/)
   ([GitHub](https://github.com/truqu)) -
   TruQu provide a HR solution to collect and analyze feedback, giving
