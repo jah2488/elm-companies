@@ -56,6 +56,12 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   developers and designers from startup backgrounds, thoughtbot can assist in
   all steps of the business and development process.
 
+#### E-commerce
+
+* [Rakuten](https://global.rakuten.com/corp/)
+  ([GitHub](https://rakutentech.github.io/)) - Global electronic commerce and
+  Internet company based in Japan
+
 #### Education
 
 * [DailyDrip](https://www.dailydrip.com/)
