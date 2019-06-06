@@ -132,6 +132,8 @@ Our new front-end is being rebuild from zero with Elm as of September 2018.
 
 * [Logistically](https://logisticallyinc.com) - Transportation management
   SaaS for 3PLs, brokers, and shippers.
+* [Stowga](https://www.stowga.com)
+  ([Github](https://github.com/stowga)) - Stowga is the world's warehousing marketplace. Based in London
 
 
 #### Media Services
