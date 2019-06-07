@@ -107,6 +107,13 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   TruQu provide a HR solution to collect and analyze feedback, giving
   employees control over their own development.
 
+#### IoT
+
+* [Idein](https://idein.jp/) ([GitHub](https://github.com/Idein)) -
+  [Actcast](https://actcast.io/) is an IoT platform service which links events
+  and data in the physical world to the Web with deep learning inference on the
+  edge devices.
+
 #### FinTech
 
 * [iZettle](https://www.izettle.com) ([GitHub](https://github.com/iZettle))
