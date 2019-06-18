@@ -145,6 +145,9 @@ Our new front-end is being rebuild from zero with Elm as of September 2018.
 
 #### Logistics
 
+* [HubTran](https://engineering.hubtran.com) ([GitHub](https://github.com/hubtran)) -
+Back office automation for transportation companies.
+Fully remote team, headquartered in Chicago.
 * [Logistically](https://logisticallyinc.com) - Transportation management
   SaaS for 3PLs, brokers, and shippers.
 * [Stowga](https://www.stowga.com)
