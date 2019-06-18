@@ -134,6 +134,14 @@ Our new front-end is being rebuild from zero with Elm as of September 2018.
   ([Github](https://github.com/PinMeTo)) - location based marketing technology
   company.
 
+#### Log Management
+
+* [Humio](https://www.humio.com/)
+   ([Github](https://github.com/humio)) - Humio is is a log management platform 
+   purpose-built for the scale of today’s data volumes by enabling users to Log 
+   Everything to Answer Anything, all in Real-Time. We are a distributed team, 
+   mostly in Denmark and the US. The front end is nearly 100% Elm (95k lines 
+   of Elm code). 
 
 #### Logistics
 
