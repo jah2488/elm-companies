@@ -55,7 +55,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   With over 10 years of experience, offices in major tech hubs, and a staff of
   developers and designers from startup backgrounds, thoughtbot can assist in
   all steps of the business and development process.
-* [Zeit.dev](https://zeit.io) - Zeit.dev is an international team of talents located around the globe (Germany, UK, India & Sweden). We are well versed in functional programming and thrive to build quality softwares.
+* [Zeit.dev](https://zeit.io) - Zeit.dev is an international team of talents located around the globe (Germany, UK, India & Sweden). We are well versed in functional programming and strive to build quality software.
 
 #### E-commerce
 
