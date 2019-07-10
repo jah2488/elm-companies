@@ -89,7 +89,17 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/circuithub)) - CircuitHub provide on demand
   electronics manufacturing with instant quotes.
 
+
+#### FinTech
+
+* [iZettle](https://www.izettle.com) ([GitHub](https://github.com/iZettle))
+  iZettle is a one-stop shop for cutting-edge commerce tools — offering
+  everything you need to take quick payments, ease day-to-day management,
+  and get the funding to grow.
+
+
 #### Healthcare
+
 * [Illuminate](https://www.goilluminate.com) ([Github](https://github.com/GoIlluminate)) -
   Illuminate equips radiology departments with critical data to save time 
   and money, improve quality and safety, monitor productivity     
@@ -102,6 +112,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 
 #### Human Resources
+
 * [Culture Amp](https://cultureamp.com) ([Github](https://github.com/cultureamp))
   Culture Amp makes it easy to collect, understand and act on employee feedback.
   Based in Melbourne with offices in San Francisco, New York, Palo Alto, and London.
@@ -110,6 +121,15 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   TruQu provide a HR solution to collect and analyze feedback, giving
   employees control over their own development.
 
+
+#### Insurance
+
+* [Coya](https://coya.com/)
+  ([GitHub](https://github.com/coyainsurance/)) -
+  Coya is a German digital insurance. Definitely different:
+  0% administrative burden. 0% paperwork.
+
+
 #### IoT
 
 * [Idein](https://idein.jp/) ([GitHub](https://github.com/Idein)) -
@@ -117,12 +137,6 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   and data in the physical world to the Web with deep learning inference on the
   edge devices.
 
-#### FinTech
-
-* [iZettle](https://www.izettle.com) ([GitHub](https://github.com/iZettle))
-  iZettle is a one-stop shop for cutting-edge commerce tools — offering
-  everything you need to take quick payments, ease day-to-day management,
-  and get the funding to grow.
 
 #### LawTech
 
