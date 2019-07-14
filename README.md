@@ -81,6 +81,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Roompact is a Chicago-based company that makes a residential education,
   learning, and engagement platform used by university residence life
   departments.
+* [Watermark](https://www.watermarkinsights.com/) -
+  Watermark provides educational intelligence software to help higher ed
+  institutions break down data silos, demonstrate quality, and improve student
+  outcomes. Headquartered in New York with offices in Austin, Denver, Milwaukee,
+  Portland (ME), and Mohali (India).
 
 
 #### Electronics
