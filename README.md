@@ -97,6 +97,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### FinTech
 
+* [Basiq](https://basiq.io/) ([GitHub](https://github.com/basiqio))
+  Basiq is the best aggregation platform for acquiring financial data.
+  We provide secure access to hundreds of financial institutions through 
+  a simple set of RESTful APIs.
 * [iZettle](https://www.izettle.com) ([GitHub](https://github.com/iZettle))
   iZettle is a one-stop shop for cutting-edge commerce tools — offering
   everything you need to take quick payments, ease day-to-day management,
