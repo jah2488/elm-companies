@@ -194,7 +194,7 @@ Fully remote team, headquartered in Chicago.
 ### Planning
 
 * [IBM]'s [Decision Composer] app makes heavy use of Elm.
-  [Discourse announcement](IBM-Discourse).
+  [Discourse announcement](https://discourse.elm-lang.org/t/ibm-releases-elm-powered-app/2364).
 * [KOVnet](http://www.kovnet.nl)
   ([GitHub](https://github.com/kdvnet)) - Planning for daycare centers.
   Planning children and careworkers, invoicing parents.
@@ -204,7 +204,6 @@ Fully remote team, headquartered in Chicago.
 
 [IBM]: https://www.ibm.com/au-en/
 [Decision Composer]: https://decision-composer.ibm.com/
-[IBM-Discourse]: https://discourse.elm-lang.org/t/ibm-releases-elm-powered-app/2364
 
 
 #### Project Management
