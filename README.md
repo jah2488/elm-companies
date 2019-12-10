@@ -253,8 +253,8 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
   
 #### Software
 
-* [Microsoft](https://www.microsoft.com), 
-[GitHub]( https://github.com/Microsoft/elm-json-tree-view) - 
+* [Microsoft](https://www.microsoft.com) 
+([GitHub]( https://github.com/Microsoft/elm-json-tree-view)) - 
 the world's second largest software company,
 has used Elm for the frontend of their 
 [customer support system](https://github.com/jah2488/elm-companies/issues/36) 
