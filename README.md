@@ -191,7 +191,7 @@ Fully remote team, headquartered in Chicago.
   platform for producers, content owners, distributors, broadcasters and
   publishers.
 
-### Planning
+#### Planning
 
 * [IBM]'s [Decision Composer] app makes heavy use of Elm.
   [Discourse announcement](https://discourse.elm-lang.org/t/ibm-releases-elm-powered-app/2364).
@@ -250,6 +250,18 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
 
 * [wonktonk](https://wonktonk.com/) - Where policy wonks propose and refine
   solutions to challenging public problems
+  
+#### Software
+
+* [Microsoft](https://www.microsoft.com) 
+([GitHub]( https://github.com/Microsoft/elm-json-tree-view)) - 
+the world's second largest software company,
+has used Elm for the frontend of their 
+[customer support system](https://github.com/jah2488/elm-companies/issues/36) 
+since 2016. Microsoft's HQ is in Redmond, Washington, USA. 
+The team that writes Elm is distributed.
+More detail on Elm at Microsoft in 
+[Elm Town Podcast Episode 43](https://elmtown.simplecast.fm/it-just-goes-on-and-on).
 
 #### Sustainability Technology
 
