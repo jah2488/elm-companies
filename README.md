@@ -191,7 +191,7 @@ Fully remote team, headquartered in Chicago.
   platform for producers, content owners, distributors, broadcasters and
   publishers.
 
-### Planning
+#### Planning
 
 * [IBM]'s [Decision Composer] app makes heavy use of Elm.
   [Discourse announcement](https://discourse.elm-lang.org/t/ibm-releases-elm-powered-app/2364).
