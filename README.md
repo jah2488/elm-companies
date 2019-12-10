@@ -250,6 +250,12 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
 
 * [wonktonk](https://wonktonk.com/) - Where policy wonks propose and refine
   solutions to challenging public problems
+  
+#### Software
+
+* [Microsoft](https://www.microsoft.com) - has used Elm for the frontend of their 
+[customer support system](https://github.com/jah2488/elm-companies/issues/36) 
+since 2016.
 
 #### Sustainability Technology
 
