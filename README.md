@@ -260,6 +260,8 @@ has used Elm for the frontend of their
 [customer support system](https://github.com/jah2488/elm-companies/issues/36) 
 since 2016. Microsoft's HQ is in Redmond, Washington, USA. 
 The team that writes Elm is distributed.
+More detail on Elm at Microsoft in 
+[Elmtown Episode 43](https://elmtown.simplecast.fm/it-just-goes-on-and-on).
 
 #### Sustainability Technology
 
