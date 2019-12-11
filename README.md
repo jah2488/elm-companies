@@ -60,7 +60,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   that Develops E-Commerce websites for some of the world's biggest brands
   including L'ORÉAL, Mary Kay and HaperCollins. 
   They have deployed 6 Elm SPAs on behalf of their clients in the past two years.
-  More detail in this reent 
+  More detail in this 
   [Elm Europe 2019 Talk](https://youtu.be/YV_qrjN8bRA?t=68)
 * [Zeit.dev](https://zeit.io) - Zeit.dev is an international team of talents 
   located around the globe (Germany, UK, India & Sweden). We are well versed 
