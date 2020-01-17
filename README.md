@@ -77,6 +77,14 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [DailyDrip](https://www.dailydrip.com/)
   ([GitHub](https://github.com/dailydrip)) -
   DailyDrip is a continuous education platform.  Daily bite-sized videos on new tech.
+* [eSpark Learning](https://www.esparklearning.com)
+  ([Blog](https://medium.com/espark-engineering-blog/), 
+  [Github](https://github.com/espark/)) -
+  We help teachers in public schools provide fun, differentiated, and measurably
+  effective lessons for their K-8 students. eSpark is proud to use and support
+  Elm. Many of the organizers of the [Elm in the
+  Spring](https://elminthespring.org) conference are part of the eSpark team, 
+  headquartered in Chicago and San Francisco (alongside remote locations).
 * [Mimo](https://getmimo.com)
   ([Github](https://github.com/getmimo)) -
   We're on a mission to find the best way to learn in a digital world.
