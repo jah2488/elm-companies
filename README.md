@@ -78,7 +78,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/dailydrip)) -
   DailyDrip is a continuous education platform.  Daily bite-sized videos on new tech.
 * [eSpark Learning](https://www.esparklearning.com)
-  ([Blog](https://medium.com/espark-engineering-blog/)) -
+  ([Blog](https://medium.com/espark-engineering-blog/), [Github](https://github.com/espark/)) -
   We help teachers in public schools provide fun, differentiated, and measurably
   effective lessons for their K-8 students. eSpark is proud to use and support
   Elm; many of the organizers of the [Elm in the
