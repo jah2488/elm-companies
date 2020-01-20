@@ -161,6 +161,13 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   and data in the physical world to the Web with deep learning inference on the
   edge devices.
 
+#### IT
+
+* [Blissfully](https://www.blissfully.com/) ([GitHub](https://github.com/Blissfully)) -
+  Blissfully is a SaaS management platform, providing visibility into an organizations 
+  SaaS apps' usage and spend, along with powerful workflows to manage change.
+  Headquarters in NYC, engineering is remote friendly, with 50% outside NYC.
+
 
 #### LawTech
 
