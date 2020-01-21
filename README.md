@@ -161,7 +161,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/coyainsurance/)) -
   Coya is a German digital insurance. Definitely different:
   0% administrative burden. 0% paperwork.
-
+* [Frende Forsikring](https://www.frende.no/) ([Github](https://github.com/Frende)) - 
+  Frende Forsikring is a Norwegian insurance company with over 250,000 customers
 
 #### IoT
 
