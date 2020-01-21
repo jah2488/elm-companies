@@ -116,6 +116,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Basiq is the best aggregation platform for acquiring financial data.
   We provide secure access to hundreds of financial institutions through 
   a simple set of RESTful APIs.
+* [FörsäkringsGirot](https://www.fgirot.se/) - 
+  FörsäkringsGirot is a Swedish company that helps major companies manage their
+  employee pensions, and ensures everyone gets paid correctly.
 * [iZettle](https://www.izettle.com) ([GitHub](https://github.com/iZettle))
   iZettle is a one-stop shop for cutting-edge commerce tools — offering
   everything you need to take quick payments, ease day-to-day management,
