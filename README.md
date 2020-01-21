@@ -213,6 +213,11 @@ Fully remote team, headquartered in Chicago.
 * [Stowga](https://www.stowga.com)
   ([Github](https://github.com/stowga)) - Stowga is the world's warehousing marketplace. Based in London
 
+#### Market Research
+
+* [GlobalWebIndex](https://www.globalwebindex.com/) - GlobalWebIndex provides
+consumer profiling data to publishers, media agencies and marketers to help them
+understand their audiences. Remote engineering team, based in London.
 
 #### Media Services
 
