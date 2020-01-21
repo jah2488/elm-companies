@@ -34,6 +34,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/bendyworks)) - Bendyworks is a team of passionate
   developers in Madison, Wisconsin dedicated to sharing joy and success in our
   craft.
+* [diesdas.digital](https://diesdas.digital)
+  ([GitHub](https://github.com/diesdasdigital)) -
+  studio for strategy, design and code in Berlin, Germany. We build mobile games
+  and web applications with Elm and other technologies
 * [Futurice](http://futurice.com/)
   ([GitHub](https://github.com/futurice)) -
   Futurice helps clients generate innovative ideas and turn them into
