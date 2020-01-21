@@ -171,6 +171,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### LawTech
 
+* [Azara](https://www.azara.io/) ([GitHub](https://github.com/azara)) - 
+  Canada - Azara is a set of web and mobile tools that keeps your cannabis business compliant and make regulation documentation easy. Azara stays up to date with regulations and assists in reducing your risk of fines from State audits.
 * [CalculoJuridico](https://calculojuridico.com.br/) 
 ([Github](https://github.com/CalculoJuridico)) - CalculoJuridico is a lawtech
 solution to help Brazilian lawyers calculate their client retirement options.
