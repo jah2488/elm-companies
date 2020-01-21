@@ -298,6 +298,7 @@ More detail on Elm at Microsoft in
   ([GitHub](https://github.com/BeautifulDestinations)) - Beautiful
   Destinations is the award-winning creative agency behind the largest travel
   community on social media.
+* [Emirates](https://www.emirates.com/) - National airline of the United Arab Emirates.
 * [AS Tallink Grupp](https://www.tallink.com/)
   ([GitHub](https://github.com/Tallink)) - one of the biggest shipping
   companies currently operating in the Baltic Sea, with cruise and shuttle
