@@ -303,6 +303,9 @@ More detail on Elm at Microsoft in
   companies currently operating in the Baltic Sea, with cruise and shuttle
   ships traveling between Tallinn, Helsinki, Stockholm, Riga and other major
   cities in the region.
+* [Vy](https://www.vy.no/) ([GitHub](https://github.com/nsbno)) -
+  Norway's national bus and railway company. The majority of the website and
+  ticket booking is written in Elm.
 
 
 
