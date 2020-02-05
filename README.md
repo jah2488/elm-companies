@@ -310,6 +310,11 @@ More detail on Elm at Microsoft in
   ([GitHub](https://github.com/BeautifulDestinations)) - Beautiful
   Destinations is the award-winning creative agency behind the largest travel
   community on social media.
+* [Click Travel](http://www.clicktravel.com) - 
+  We’re shaping the future of business travel with our award-winning 
+  corporate travel management and booking platform – built on the 
+  foundations of trust, choice and great people. 
+  Based in Birmingham, UK. Hiring remotely anywhere in the UK.
 * [Emirates](https://www.emirates.com/) - National airline of the United Arab Emirates.
 * [AS Tallink Grupp](https://www.tallink.com/)
   ([GitHub](https://github.com/Tallink)) - one of the biggest shipping
