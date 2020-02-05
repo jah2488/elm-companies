@@ -34,7 +34,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   [active community](https://discord.gg/MeRxXKW) of open source contributors.
   
 #### Communications
-* [Virtual Airwaves](https://virtualairwaves.com) - our web client for many-to-many push-to-talk communications is [written in Elm](https://cb.virtualairwaves.com)
+* [Virtual Airwaves](https://virtualairwaves.com) - our web client for many-to-many push-to-talk communications is [written in Elm](https://cb.virtualairwaves.com). Virtual Airwaves is located in Sunnyvale, California. 
 
 #### Consulting
 * [Adrima](https://adrima.es)
