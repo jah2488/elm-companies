@@ -77,6 +77,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### E-commerce
 
+* [Butternut Box](https://butternutbox.com/) 
+  ([Github](https://github.com/butternutbox)) - Based in London, Butternut is
+  the modern way to feed your dog; Freshly prepared dog food. Cooked like you
+  would at home. Delivered in perfect portions. We love Elm ❤️
 * [Rakuten](https://global.rakuten.com/corp/)
   ([GitHub](https://rakutentech.github.io/)) - Global electronic commerce and
   Internet company based in Japan
