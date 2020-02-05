@@ -40,6 +40,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/diesdasdigital)) -
   studio for strategy, design and code in Berlin, Germany. We build mobile games
   and web applications with Elm and other technologies
+* [Driebit](https://www.driebit.nl/nl/about)
+  ([Github](https://github.com/driebit/)) - Web development agency based in
+  Amsterdam. We work on projects that contribute to positive change.
 * [Futurice](http://futurice.com/)
   ([GitHub](https://github.com/futurice)) -
   Futurice helps clients generate innovative ideas and turn them into
