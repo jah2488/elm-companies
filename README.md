@@ -160,6 +160,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### Insurance
 
+* [Acko Insurance](https://www.acko.com/) ([Github](https://github.com/ackotech)) - 
+  Acko is an Insurance company from India with over 20 million customers
 * [Coya](https://coya.com/)
   ([GitHub](https://github.com/coyainsurance/)) -
   Coya is a German digital insurance. Definitely different:
