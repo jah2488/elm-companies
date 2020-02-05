@@ -142,6 +142,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   system, Nomi, records patient medication behavior as it happens. By using
   real-time insights, the system reinforces positive behavior and intervenes
   to help patients take their medication and continue their treatment.
+* [VisuWell](https://visuwell.io/)
+  ([GitHub](https://github.com/wecounsel)) -
+  Elm powers VisuWell's video conferencing (telemedicine) user interface.
 
 
 #### Human Resources
