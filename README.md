@@ -32,9 +32,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   UI and a powerful CLI. Concourse is backed by a team at
   [Pivotal Software](https://pivotal.io/concourse) in Toronto, Canada and an
   [active community](https://discord.gg/MeRxXKW) of open source contributors.
+  
+#### Communications
+* [Virtual Airwaves](https://virtualairwaves.com) - our web client for many-to-many push-to-talk communications is [written in Elm](https://cb.virtualairwaves.com)
 
 #### Consulting
-
 * [Adrima](https://adrima.es)
   ([Github](https://github.com/AdrianRibao))
   ([Medium](https://medium.com/@adrian_ribao)) -
