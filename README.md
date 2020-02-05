@@ -6,15 +6,16 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 [elixir-companies]: https://github.com/doomspork/elixir-companies
 
+
 #### Automotive
 
 * [CARFAX](https://www.carfax.com/)
   ([GitHub](https://github.com/CARFAX)) - CARFAX provide a comprehensive
   vehicle history database for North America.
-
 * [carwow](https://www.carwow.co.uk/) ([GitHub](https://github.com/carwow)) -
   Based in London and Munich, carwow is the most convenient, stress-free way to
   find and buy a new car, at a price you can be confident in, and we love Elm!
+
 
 #### Banking
 
@@ -22,11 +23,21 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   professionals with tools for banks to collaborate as well as manage their
   business. We have converted all new front-end development to Elm.
 
+
+#### CI/CD
+
+* [Concourse CI](https://concourse-ci.org)
+  ([Github](https://github.com/concourse/concourse/)) - Concourse CI is a
+  container-based open-source continuous thing-doer written in Go with an Elm
+  UI and a powerful CLI. Concourse is backed by a team at
+  [Pivotal Software](https://pivotal.io/concourse) in Toronto, Canada and an
+  [active community](https://discord.gg/MeRxXKW) of open source contributors.
+
 #### Consulting
 
 * [Adrima](https://adrima.es)
   ([Github](https://github.com/AdrianRibao))
-  ([Medium](https://medium.com/@adrian_ribao))-
+  ([Medium](https://medium.com/@adrian_ribao)) -
   Adrima is a Spanish development company with more than 10 years of experience
   who loves building software using the greatest technologies. We use Elm
   extensively in our [product related to employment](https://empleo.digital).
@@ -75,6 +86,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   located around the globe (Germany, UK, India & Sweden). We are well versed 
   in functional programming and strive to build quality software.
 
+
 #### E-commerce
 
 * [Butternut Box](https://butternutbox.com/) 
@@ -88,6 +100,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Rakuten](https://global.rakuten.com/corp/)
   ([GitHub](https://rakutentech.github.io/)) - Global electronic commerce and
   Internet company based in Japan
+
 
 #### Education
 
@@ -180,12 +193,14 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Frende Forsikring](https://www.frende.no/) ([Github](https://github.com/Frende)) - 
   Frende Forsikring is a Norwegian insurance company with over 250,000 customers
 
+
 #### IoT
 
 * [Idein](https://idein.jp/) ([GitHub](https://github.com/Idein)) -
   [Actcast](https://actcast.io/) is an IoT platform service which links events
   and data in the physical world to the Web with deep learning inference on the
   edge devices.
+
 
 #### IT
 
@@ -204,11 +219,13 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 solution to help Brazilian lawyers calculate their client retirement options.
 Our new front-end is being rebuild from zero with Elm as of September 2018.
 
+
 #### Location Marketing
 
 * [PinMeTo](http://www.pinmeto.com)
   ([Github](https://github.com/PinMeTo)) - location based marketing technology
   company.
+
 
 #### Log Management
 
@@ -218,6 +235,7 @@ Our new front-end is being rebuild from zero with Elm as of September 2018.
    Everything to Answer Anything, all in Real-Time. We are a distributed team, 
    mostly in Denmark and the US. The front end is nearly 100% Elm (95k lines 
    of Elm code). 
+
 
 #### Logistics
 
@@ -229,11 +247,13 @@ Fully remote team, headquartered in Chicago.
 * [Stowga](https://www.stowga.com)
   ([Github](https://github.com/stowga)) - Stowga is the world's warehousing marketplace. Based in London
 
+
 #### Market Research
 
 * [GlobalWebIndex](https://www.globalwebindex.com/) - GlobalWebIndex provides
 consumer profiling data to publishers, media agencies and marketers to help them
 understand their audiences. Remote engineering team, based in London.
+
 
 #### Media Services
 
@@ -304,11 +324,13 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
   [MyBrocante](https://mybrocante.fr), an online tool for managing rummage
   sales.
 
+
 #### Social Media
 
 * [wonktonk](https://wonktonk.com/) - Where policy wonks propose and refine
   solutions to challenging public problems
-  
+
+
 #### Software
 
 * [Microsoft](https://www.microsoft.com) 
@@ -320,6 +342,7 @@ since 2016. Microsoft's HQ is in Redmond, Washington, USA.
 The team that writes Elm is distributed.
 More detail on Elm at Microsoft in 
 [Elm Town Podcast Episode 43](https://elmtown.simplecast.fm/it-just-goes-on-and-on).
+
 
 #### Sustainability Technology
 
@@ -348,7 +371,6 @@ More detail on Elm at Microsoft in
 * [Vy](https://www.vy.no/) ([GitHub](https://github.com/nsbno)) -
   Norway's national bus and railway company. The majority of the website and
   ticket booking is written in Elm.
-
 
 
 ## Contributing
