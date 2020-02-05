@@ -163,6 +163,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   0% administrative burden. 0% paperwork.
 * [Frende Forsikring](https://www.frende.no/) ([Github](https://github.com/Frende)) - 
   Frende Forsikring is a Norwegian insurance company with over 250,000 customers
+* [Acko Insurance](https://www.acko.com/) ([Github](https://github.com/ackotech)) - 
+  Acko is an Insurance company from India with over 20 million customers
 
 #### IoT
 
