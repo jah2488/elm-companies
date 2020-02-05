@@ -144,7 +144,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   to help patients take their medication and continue their treatment.
 * [VisuWell](https://visuwell.io/)
   ([GitHub](https://github.com/wecounsel)) -
-  Elm powers VisuWell's video conferencing (telemedicine) user interface.
+  Elm powers Chattanooga, Tennessee USA-based VisuWell's video conferencing (telemedicine) user interface.
 
 
 #### Human Resources
