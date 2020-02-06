@@ -23,6 +23,13 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   professionals with tools for banks to collaborate as well as manage their
   business. We have converted all new front-end development to Elm.
 
+#### Chatbots
+
+* [NLX](https://nlx.ai) ([GitHub](https://github.com/nlxai)) - Using NLX, you
+  can build and manage conversational AI applications without programming.
+  Instead, users work with a web app and  visual editor built entirely in Elm
+  using the [elm-arborist](https://github.com/peterszerzo/elm-arborist) package.
+  NLX is based in New York City.
 
 #### CI/CD
 
