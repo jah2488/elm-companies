@@ -109,6 +109,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Rakuten](https://global.rakuten.com/corp/)
   ([GitHub](https://rakutentech.github.io/)) - Global electronic commerce and
   Internet company based in Japan
+* [Zalora](https://zalora.com/) - Based in Singapore, Zalora is the leading 
+  fashion e-commerce shop in Southeast Asia. We utilize Elm for our shop's 
+  catalog, improving the customer's experience when shopping with us.
 
 
 #### Education
