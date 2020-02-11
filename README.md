@@ -204,6 +204,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   0% administrative burden. 0% paperwork.
 * [Frende Forsikring](https://www.frende.no/) ([Github](https://github.com/Frende)) - 
   Frende Forsikring is a Norwegian insurance company with over 250,000 customers
+* [Insurello](https://insurello.se) ([GitHub](https://github.com/insurello/recruiting)) - Insurello is a Swedish InsurTech company that helps people get compensation from insurance companies.
 
 
 #### IoT
