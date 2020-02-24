@@ -41,6 +41,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   [active community](https://discord.gg/MeRxXKW) of open source contributors.
   
 #### Communications
+* [Gripeless](https://usegripeless.com) ([GitHub](https://github.com/gripeless)) -
+  We offer a widget that you can install on your website which is built entirely
+  in Elm. Based in Poland, Gripeless improves products with user complaints.
 * [Virtual Airwaves](https://virtualairwaves.com) - our web client for many-to-many push-to-talk communications is [written in Elm](https://cb.virtualairwaves.com). Virtual Airwaves is located in Sunnyvale, California. 
 
 #### Consulting
