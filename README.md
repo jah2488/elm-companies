@@ -236,7 +236,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 ([Github](https://github.com/CalculoJuridico)) - CalculoJuridico is a lawtech
 solution to help Brazilian lawyers calculate their client retirement options.
 Our new front-end is being rebuild from zero with Elm as of September 2018.
-
+* [Scrive](https://scrive.com) - Sweden - Scrive is the Nordic market leader in electronic signature solutions. Our whole product makes heavy use of functional programming in its implementation and recently we've started to implement more of our frontend in Elm. We now have an admin console written entirely in Elm, and our electronic ID service exclusively uses elm for its frontend. We intend for the amount of elm in our codebase to increase even more over the next year.
 
 #### Location Marketing
 
