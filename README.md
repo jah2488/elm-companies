@@ -66,6 +66,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Driebit](https://www.driebit.nl/nl/about)
   ([Github](https://github.com/driebit/)) - Web development agency based in
   Amsterdam. We work on projects that contribute to positive change.
+  [These](https://github.com/driebit/elm-projects) are some of the projects that use Elm.
 * [Futurice](http://futurice.com/)
   ([GitHub](https://github.com/futurice)) -
   Futurice helps clients generate innovative ideas and turn them into
