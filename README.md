@@ -102,10 +102,6 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### E-commerce
 
-* [Butternut Box](https://butternutbox.com/) 
-  ([Github](https://github.com/butternutbox)) - Based in London, Butternut is
-  the modern way to feed your dog; Freshly prepared dog food. Cooked like you
-  would at home. Delivered in perfect portions. We love Elm ❤️
 * [Drip](https://drip.com)
   ([GitHub](https://github.com/DripEmail/)) - Offices in Minneapolis, MN and
   Salt Lake City, UT. Ecommerce CRM. We have a large and growing Elm code base
