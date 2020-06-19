@@ -226,7 +226,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Blissfully is a SaaS management platform, providing visibility into an organizations 
   SaaS apps' usage and spend, along with powerful workflows to manage change.
   Headquarters in NYC, engineering is remote friendly, with 50% outside NYC.
-* [Stax](https://www.stax.io/) - Secure platform to AWS cloud management and monitoring.
+* [Stax](https://www.stax.io/) - Secure platform to AWS cloud management and monitoring. Melbourne, Australia.
 
 
 #### LawTech
