@@ -176,6 +176,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Illuminate equips radiology departments with critical data to save time 
   and money, improve quality and safety, monitor productivity     
   and efficiency, and enhance diagnostic accuracy.
+* [Pacific Health Dynamics](https://www.pacificdynamics.com.au/)
+  ([GitHub](https://github.com/Pacific-Health-Dynamics/)) - PHD specialises in
+  comprehensive health insurance tech solutions for risk management in Private 
+  Health Funds. Based in Sydney.
+  The primary app is 134k+ lines of Elm in front of a mixed C# / Kotlin backend.
 * [SMRxT](https://nomiadherence.com/)
   ([Blog](https://engineering.smrxt.com/)) - SMRxT’s medication adherence
   system, Nomi, records patient medication behavior as it happens. By using
