@@ -33,6 +33,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### CI/CD
 
+* [Cachix](https://cachix.org/) Build Nix packages once and share them for good.
+  ([GitHub](https://github.com/cachix/elm2nix))
 * [Concourse CI](https://concourse-ci.org)
   ([Github](https://github.com/concourse/concourse/)) - Concourse CI is a
   container-based open-source continuous thing-doer written in Go with an Elm
