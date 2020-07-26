@@ -367,6 +367,7 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
 
 #### Software
 
+* [Fission](https://fission.codes) - is a web native application platform that includes app hosting, public + private files, end-to-end encryption, and an account and authentication system. Developers can build and deploy apps using only client side tech -- including Elm. Users can use the [Drive app](https://drive.fission.codes) and authenticate using the [Auth lobby](https://auth.fission.codes/), both written in Elm.
 * [Microsoft](https://www.microsoft.com) 
 ([GitHub]( https://github.com/Microsoft/elm-json-tree-view)) - 
 the world's second largest software company,
