@@ -167,6 +167,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   iZettle is a one-stop shop for cutting-edge commerce tools — offering
   everything you need to take quick payments, ease day-to-day management,
   and get the funding to grow.
+* [MackeyRMS](https://www.mackeyrms.com/) -
+  MackeyRMS is a SaaS-based research management platform engineered to optimize the way analysts and portfolio managers generate, share, debate and act on investment research conducted for actively managed portfolios. Relied upon as a single system of record for research supporting the investment process, MackeyRMSis used by many of the world’s leading investment managers to organize key investment workflows, engender trust from investors, and streamline regulatory and compliance oversight.
 * [treefin](https://www.treefin.com) ([GitHub](https://github.com/treefin)) – 
   treefin (Munich) is a German language mobile application that organizes your
   finances. Beyond our app, we work on many exciting projects of personal finance 
