@@ -55,6 +55,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Adrima is a Spanish development company with more than 10 years of experience
   who loves building software using the greatest technologies. We use Elm
   extensively in our [product related to employment](https://empleo.digital).
+* [BEC Systems](http://bec-systems.com) - Helping companies develop full stack 
+  solutions using [embedded Linux](http://yoedistro.org), Cloud, and 
+  [IoT technologies](http://simpleiot.org).
 * [Bekk](https://www.bekk.no/) ([GitHub](https://github.com/bekk)) -
   Bekk is a Norwegian consulting company with more than 400 employees.
 * [Bendyworks](https://bendyworks.com)
@@ -235,6 +238,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   [Actcast](https://actcast.io/) is an IoT platform service which links events
   and data in the physical world to the Web with deep learning inference on the
   edge devices.
+* [Simple IoT](http://simpleiot.org/) - Building blocks for custom IoT systems.
 
 
 #### IT
