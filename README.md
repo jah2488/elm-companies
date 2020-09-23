@@ -46,6 +46,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Gripeless](https://usegripeless.com) ([GitHub](https://github.com/gripeless)) -
   We offer a widget that you can install on your website which is built entirely
   in Elm. Based in Poland, Gripeless improves products with user complaints.
+* [Snapview](https://snapview.net) ([GitHub](https://github.com/snapview)) - 
+  German company that produces software for web-based video consultations.
+  The frontend is written in Elm and TypeScript, the backend in Rust. Legacy
+  components also use JavaScript, C# and C++.
 * [Virtual Airwaves](https://virtualairwaves.com) - our web client for many-to-many push-to-talk communications is [written in Elm](https://cb.virtualairwaves.com). Virtual Airwaves is located in Sunnyvale, California. 
 
 #### Consulting
