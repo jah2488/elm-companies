@@ -1,6 +1,8 @@
-module Main exposing (..)
+module Main exposing (main)
+
+import Html exposing (Html, text)
 
 
-main : String
+main : Html msg
 main =
-    "Hello, world!"
+    text "Hello, world!"
