@@ -161,6 +161,13 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/circuithub)) - CircuitHub provide on demand
   electronics manufacturing with instant quotes.
 
+#### Field Marketing 
+
+* [PINATA](https://www.gopinata.com/) ([GitHub](https://github.com/pinata-llc)) - 
+  PINATA is a flexible, data-driven platform where brands, agencies, and
+  freelance talent collaborate to create elevated consumer experiences.
+  HQ in NYC, remote-friendly engineering team. 
+  All new front-end code is written in Elm.
 
 #### FinTech
 
