@@ -164,8 +164,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 #### Field Marketing 
 
 * [PINATA](https://www.gopinata.com/) ([GitHub](https://github.com/pinata-llc)) - 
-  PINATA is a flexible, data-driven platform where brands, agencies, and
-  freelance talent collaborate to create elevated consumer experiences.
+  PINATA is powerful and easy-to-use software, purpose-built for the consumer 
+  brand industry to manage tasks and goals, measure outcomes, and maximize ROI.
   HQ in NYC, remote-friendly engineering team. 
   All new front-end code is written in Elm.
 
