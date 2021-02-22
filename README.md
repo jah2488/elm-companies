@@ -122,7 +122,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Zalora](https://zalora.com/) - Based in Singapore, Zalora is the leading 
   fashion e-commerce shop in Southeast Asia. We utilize Elm for our shop's 
   catalog, improving the customer's experience when shopping with us.
-
+* [Bellroy](https://bellroy.com/) - Bellroy is an Australian accessories brand
+  making carry goods, including bags, folios, wallets, pouches, phone cases, 
+  and key covers. [Post about Elm at Bellroy](http://nonullpointers.com/posts/2019-05-28-side-effects-of-elm-in-production.html).
 
 #### Education
 
