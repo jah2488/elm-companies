@@ -88,6 +88,12 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   jambit is an innovative software company. We offer conception and development
   of customer-specific software solutions and draw on various industry
   expertise and the latest technological know-how.
+* [Kulkul Tech](http://kulkul.tech/) ([GitHub](https://github.com/kulkultech)) -
+  Kulkul Technology is a web and mobile software development company
+  based in Jakarta, Indonesia. We are providing excellent software for business.
+  We're working with companies all over the world from a single-person business
+  to large corporates. We are a solid remote-first firm with a high emphasis on
+  people and clear communication.
 * [Test Double](http://testdouble.com)
   ([GitHub](https://github.com/testdouble)) - Test Double is an agency
   of highly-skilled developers on a mission to improve how the world
