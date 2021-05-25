@@ -15,7 +15,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [carwow](https://www.carwow.co.uk/) ([GitHub](https://github.com/carwow)) -
   Based in London and Munich, carwow is the most convenient, stress-free way to
   find and buy a new car, at a price you can be confident in, and we love Elm!
-* [Ford](https://www.ford.com/). [Talk about Elm at Ford](https://www.youtube.com/watch?v=5WVXCy1Q88o).
+* [Ford](https://www.ford.com/). [Talk about Elm at Ford (Elm Conf)](https://www.youtube.com/watch?v=5WVXCy1Q88o "Facilitating Technology Change Through Cultural Change - Grant Maki").
 
 
 #### Banking
