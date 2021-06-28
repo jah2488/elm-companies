@@ -308,6 +308,9 @@ codebase to increase even more over the next year.
 
 #### Logistics
 
+* [BravoTran](https://bravotran.workable.com) ([GitHub](https://github.com/bravotran)) -
+Back office automation for freight forwarding companies, spinoff from HubTran.
+Fully remote international team, headquartered in Chicago.
 * [HubTran](https://engineering.hubtran.com) ([GitHub](https://github.com/hubtran)) -
 Back office automation for transportation companies.
 Fully remote team, headquartered in Chicago.
