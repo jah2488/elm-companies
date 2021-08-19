@@ -137,6 +137,12 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### Education
 
+* [Brilliant](https://brilliant.org/) 
+  ([GitHub](https://github.com/orgs/brilliantorg/repositories?language=elm))
+  Brilliant is an online learning platform that replaces lecture videos 
+  with hands-on, interactive lessons.
+  Based in San Francisco with remote team members.
+  ([Hiring](https://brilliant.org/careers/))
 * [DailyDrip](https://www.dailydrip.com/)
   ([GitHub](https://github.com/dailydrip)) -
   DailyDrip is a continuous education platform.  Daily bite-sized videos on new tech.
