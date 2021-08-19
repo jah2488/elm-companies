@@ -244,6 +244,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 * [Acko Insurance](https://www.acko.com/) ([Github](https://github.com/ackotech)) - 
   Acko is an Insurance company from India with over 20 million customers
+* [Corvus Insurance](https://www.corvusinsurance.com/)
+  ([GitHub](https://github.com/corvusinsurance/)) - Corvus builds Smart
+  Commercial Insurance Products: policies built on data-driven underwriting
+  (using Elm, Elixir, and Python). Based in Boston, with a flock that spans
+  throughout the United States.
 * [Coya](https://coya.com/)
   ([GitHub](https://github.com/coyainsurance/)) -
   Coya is a German digital insurance. Definitely different:
