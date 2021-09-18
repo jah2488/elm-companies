@@ -46,6 +46,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Gripeless](https://usegripeless.com) ([GitHub](https://github.com/gripeless)) -
   We offer a widget that you can install on your website which is built entirely
   in Elm. Based in Poland, Gripeless improves products with user complaints.
+* [Snapview](https://snapview.net) ([GitHub](https://github.com/snapview)) - 
+  German company that produces software for web-based video consultations.
+  The frontend is written in Elm and TypeScript, the backend in Rust. Legacy
+  components also use JavaScript, C# and C++.
 * [Virtual Airwaves](https://virtualairwaves.com) - our web client for many-to-many push-to-talk communications is [written in Elm](https://cb.virtualairwaves.com). Virtual Airwaves is located in Sunnyvale, California. 
 
 #### Consulting
@@ -55,6 +59,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Adrima is a Spanish development company with more than 10 years of experience
   who loves building software using the greatest technologies. We use Elm
   extensively in our [product related to employment](https://empleo.digital).
+* [BEC Systems](http://bec-systems.com) - BEC is a consulting company located 
+  in the Unites States helping companies develop full stack 
+  solutions using [embedded Linux](http://yoedistro.org), Cloud, and 
+  [IoT technologies](http://simpleiot.org).
 * [Bekk](https://www.bekk.no/) ([GitHub](https://github.com/bekk)) -
   Bekk is a Norwegian consulting company with more than 400 employees.
 * [Bendyworks](https://bendyworks.com)
@@ -69,6 +77,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([Github](https://github.com/driebit/)) - Web development agency based in
   Amsterdam. We work on projects that contribute to positive change.
   [These](https://github.com/driebit/elm-projects) are some of the projects that use Elm.
+* [Folq](https://folq.no/)
+  ([GitHub](https://github.com/folq)) -
+  Folq is an online marketplace for consulting services. Based in Norway.
 * [Futurice](http://futurice.com/)
   ([GitHub](https://github.com/futurice)) -
   Futurice helps clients generate innovative ideas and turn them into
@@ -80,6 +91,12 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   jambit is an innovative software company. We offer conception and development
   of customer-specific software solutions and draw on various industry
   expertise and the latest technological know-how.
+* [Kulkul Tech](http://kulkul.tech/) ([GitHub](https://github.com/kulkultech)) -
+  Kulkul Technology is a web and mobile software development company
+  based in Jakarta, Indonesia. We are providing excellent software for business.
+  We're working with companies all over the world from a single-person business
+  to large corporates. We are a solid remote-first firm with a high emphasis on
+  people and clear communication.
 * [Test Double](http://testdouble.com)
   ([GitHub](https://github.com/testdouble)) - Test Double is an agency
   of highly-skilled developers on a mission to improve how the world
@@ -114,7 +131,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Zalora](https://zalora.com/) - Based in Singapore, Zalora is the leading 
   fashion e-commerce shop in Southeast Asia. We utilize Elm for our shop's 
   catalog, improving the customer's experience when shopping with us.
-
+* [Bellroy](https://bellroy.com/) - Bellroy is an Australian accessories brand
+  making carry goods, including bags, folios, wallets, pouches, phone cases, 
+  and key covers. [Post about Elm at Bellroy](http://nonullpointers.com/posts/2019-05-28-side-effects-of-elm-in-production.html).
 
 #### Education
 
@@ -153,6 +172,13 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/circuithub)) - CircuitHub provide on demand
   electronics manufacturing with instant quotes.
 
+#### Field Marketing 
+
+* [PINATA](https://www.gopinata.com/) ([GitHub](https://github.com/pinata-llc)) - 
+  PINATA is powerful and easy-to-use software, purpose-built for the consumer 
+  brand industry to manage tasks and goals, measure outcomes, and maximize ROI.
+  HQ in NYC, remote-friendly engineering team. 
+  All new front-end code is written in Elm.
 
 #### FinTech
 
@@ -218,6 +244,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 * [Acko Insurance](https://www.acko.com/) ([Github](https://github.com/ackotech)) - 
   Acko is an Insurance company from India with over 20 million customers
+* [Corvus Insurance](https://www.corvusinsurance.com/)
+  ([GitHub](https://github.com/corvusinsurance/)) - Corvus builds Smart
+  Commercial Insurance Products: policies built on data-driven underwriting
+  (using Elm, Elixir, and Python). Based in Boston, with a flock that spans
+  throughout the United States.
 * [Coya](https://coya.com/)
   ([GitHub](https://github.com/coyainsurance/)) -
   Coya is a German digital insurance. Definitely different:
@@ -235,6 +266,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   [Actcast](https://actcast.io/) is an IoT platform service which links events
   and data in the physical world to the Web with deep learning inference on the
   edge devices.
+* [Simple IoT](http://simpleiot.org/) - Building blocks for custom IoT systems.
 
 
 #### IT
@@ -281,6 +313,9 @@ codebase to increase even more over the next year.
 
 #### Logistics
 
+* [BravoTran](https://bravotran.workable.com) ([GitHub](https://github.com/bravotran)) -
+Back office automation for freight forwarding companies, spinoff from HubTran.
+Fully remote international team, headquartered in Chicago.
 * [HubTran](https://engineering.hubtran.com) ([GitHub](https://github.com/hubtran)) -
 Back office automation for transportation companies.
 Fully remote team, headquartered in Chicago.
