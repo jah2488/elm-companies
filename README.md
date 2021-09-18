@@ -364,7 +364,8 @@ understand their audiences. Remote engineering team, based in London.
   ([GitHub](https://github.com/pivotaltracker)) -
   Pivotal Tracker provide a project management tool for agile software
   development teams.
-* [StructionSite](https://structionsite.com/) ([GitHub](https://github.com/StructionSite)) - Video and photo 
+* [StructionSite](https://structionsite.com/) 
+([GitHub](https://github.com/StructionSite)) - Video and photo 
 documentation for the construction industry for automated 
 tracking and recording of building site progress.
 
