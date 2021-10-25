@@ -137,7 +137,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### Education
 
-* [Brilliant.org](https://brilliant.org) - Brilliant is an online, interactive, science and math education company with a mission to inspire and develop people to achieve their goals in STEM.
+* [Brilliant.org](https://brilliant.org)([Github](https://github.com/brilliantorg)) - Brilliant is an online, interactive, 
+    science and math education company with a mission to inspire and develop
+    people to achieve their goals in STEM. Brilliant HQ is in San 
+    Francisco, and has a distributed team.
 * [DailyDrip](https://www.dailydrip.com/)
   ([GitHub](https://github.com/dailydrip)) -
   DailyDrip is a continuous education platform.  Daily bite-sized videos on new tech.
