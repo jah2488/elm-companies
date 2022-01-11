@@ -138,7 +138,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 #### Education
 
 * [Brilliant](https://www.brilliant.org/) - Learn math and science through hands-on,
-   interactive problem solving. Most of our interactives are written in Elm!
+   interactive problem solving. Most of our interactives are written in Elm! We're
+   headquartered in San Francisco, CA but have folks all over the US and Canada.
 * [DailyDrip](https://www.dailydrip.com/)
   ([GitHub](https://github.com/dailydrip)) -
   DailyDrip is a continuous education platform.  Daily bite-sized videos on new tech.
