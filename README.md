@@ -431,7 +431,13 @@ since 2016. Microsoft's HQ is in Redmond, Washington, USA.
 The team that writes Elm is distributed.
 More detail on Elm at Microsoft in 
 [Elm Town Podcast Episode 43](https://elmtown.simplecast.fm/it-just-goes-on-and-on).
-* [Unison](https://www.unisonweb.org/) ([GitHub](https://github.com/unisonweb/codebase-ui)) uses Elm for their community hub ([Unison Share](https://share.unison-lang.org/)) and the local UI that ships with the Unison Programming Language
+* [Unison](https://www.unisonweb.org/)
+  ([GitHub](https://github.com/unisonweb/codebase-ui)) is an open source
+  functional programming language based on a simple idea with big implications:
+  code is content-addressed and immutable. Unison uses Elm for [Unison
+  Share](https://share.unison-lang.org/) (community hub) and the local UI that
+  ships with the Unison Programming Language. Unison is a distributed team,
+  based across North America.
 
 
 #### Sustainability Technology
