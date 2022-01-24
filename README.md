@@ -258,7 +258,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Insurello](https://insurello.se) ([GitHub](https://github.com/insurello)) -
    Insurello is a Swedish InsurTech company that helps people get compensation
    from their insurance companies.
-
+* [Prima](http://www.prima.it) ([GitHub](https://github.com/primait)) -
+   Prima Assicurazioni is an Italian insurance company with a focus on cutting 
+   edge technologies.
 
 #### IoT
 
