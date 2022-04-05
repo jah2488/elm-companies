@@ -210,9 +210,13 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### Healthcare
 
+* [Dividat](https://www.dividat.com) ([Github](https://github.com/dividat)) -
+  Dividat makes a small video game console with a large controller for fall
+  prevention and other therapeutic applications. The client applications,
+  signal processing and several games are implemented in Elm. HQ in Switzerland.
 * [Illuminate](https://www.goilluminate.com) ([Github](https://github.com/GoIlluminate)) -
-  Illuminate equips radiology departments with critical data to save time 
-  and money, improve quality and safety, monitor productivity     
+  Illuminate equips radiology departments with critical data to save time
+  and money, improve quality and safety, monitor productivity
   and efficiency, and enhance diagnostic accuracy.
 * [Pacific Health Dynamics](https://www.pacificdynamics.com.au/)
   ([GitHub](https://github.com/Pacific-Health-Dynamics/)) - PHD specialises in
