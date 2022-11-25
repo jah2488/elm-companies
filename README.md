@@ -414,6 +414,8 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
 
 #### Software
 
+* [Deepgram](https://deepgram.com)
+  ([Github](https://github.com/deepgram)) - Speech AI Platform for transcription and understanding. Deepgram is a distributed team.
 * [Fission](https://fission.codes) ([GitHub](https://github.com/fission-suite)) - 
 is a web native application platform that 
 includes app hosting, public + private files, end-to-end encryption, and an 
