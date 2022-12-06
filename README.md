@@ -148,6 +148,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
    Journey to building "Diagrammar", Brilliant.org's interactive diagram tool in Elm:
    https://youtu.be/gT9Xu-ctNqI
    by Pontus Granström [@pnutus](https://github.com/pnutus) (Strange Loop 2022)
+* [Budapest School](https://budapestschool.org/en/) - BPS is a network of
+  Hungarian micro schools that promote an environment in which children become
+  naturally equipped with the mindset and skills needed to lead a happy life.
+  The internal educational platform used by teachers, students and parents are
+  built with Elm.
 * [DailyDrip](https://www.dailydrip.com/)
   ([GitHub](https://github.com/dailydrip)) -
   DailyDrip is a continuous education platform.  Daily bite-sized videos on new tech.
