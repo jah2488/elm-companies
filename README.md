@@ -418,6 +418,14 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
   sales.
 
 
+#### Security
+
+* [Ava Security](https://www.avasecurity.com/) - Ava Security is a global
+  technology company that protects people and assets with proactive video
+  security and human-centric data loss protection. Offices in UK, Norway and
+  USA.
+
+
 #### Social Media
 
 * [wonktonk](https://wonktonk.com/) - Where policy wonks propose and refine
