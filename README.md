@@ -80,6 +80,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Folq](https://folq.no/)
   ([GitHub](https://github.com/folq)) -
   Folq is an online marketplace for consulting services. Based in Norway.
+* [Foxhound Systems](https://www.foxhound.systems/)
+  ([GitHub](https://github.com/foxhound-systems))
+  ([Blog](https://www.foxhound.systems/blog/)) -
+  Foxhound Systems is a custom software development company based out of Chicago
+  that builds reliable, high performance web applications.
 * [Futurice](http://futurice.com/)
   ([GitHub](https://github.com/futurice)) -
   Futurice helps clients generate innovative ideas and turn them into
@@ -137,6 +142,12 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### Education
 
+* [Brilliant](https://www.brilliant.org/) - Learn math and science through hands-on,
+   interactive problem solving. Most of our interactives are written in Elm! We're
+   headquartered in San Francisco, CA but have folks all over the US, Canada and remote.
+   Journey to building "Diagrammar", Brilliant.org's interactive diagram tool in Elm:
+   https://youtu.be/gT9Xu-ctNqI
+   by Pontus Granström [@pnutus](https://github.com/pnutus) (Strange Loop 2022)
 * [Budapest School](https://budapestschool.org/en/) - BPS is a network of
   Hungarian micro schools that promote an environment in which children become
   naturally equipped with the mindset and skills needed to lead a happy life.
@@ -191,6 +202,15 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Basiq is the best aggregation platform for acquiring financial data.
   We provide secure access to hundreds of financial institutions through 
   a simple set of RESTful APIs.
+* [Featurespace](http://www.featurespace.com/) ([GitHub](https://github.com/Featurespace))
+  is the world leader in enterprise financial crime prevention for fraud and
+  anti-money laundering. Featurespace invented Adaptive Behavioral Analytics 
+  and Automated Deep Behavioral Networks, both of which are available through 
+  the ARIC platform, a real-time machine learning software that risk scores 
+  millions of events each second in more than 180 countries. The company 
+  [chooses](https://www.youtube.com/watch?v=0AosqGTEa0Q) to build its user interface 
+  with Elm, and with over 300k lines of code it is one of the largest users of Elm 
+  in the world.
 * [FörsäkringsGirot](https://www.fgirot.se/) - 
   FörsäkringsGirot is a Swedish company that helps major companies manage their
   employee pensions, and ensures everyone gets paid correctly.
@@ -208,6 +228,12 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   MackeyRMS is used by many of the world’s leading investment managers to 
   organize key investment workflows, engender trust from investors, and 
   streamline regulatory and compliance oversight.
+* [Smallbrooks](https://www.smallbrooks.com) -
+  Copenhagen Denmark -
+  Smallbrooks sell Saas crowdfunding platforms. Most of our user clients are
+  written in Elm and we have 150.000+ lines of Elm code in production.  We have
+  fun, so come work for us. We are fans of functional programming and use Scala
+  on the backend and NixOS as dev environment.
 * [treefin](https://www.treefin.com) ([GitHub](https://github.com/treefin)) – 
   treefin (Munich) is a German language mobile application that organizes your
   finances. Beyond our app, we work on many exciting projects of personal finance 
@@ -215,9 +241,13 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### Healthcare
 
+* [Dividat](https://www.dividat.com) ([Github](https://github.com/dividat)) -
+  Dividat makes a small video game console with a large controller for fall
+  prevention and other therapeutic applications. The client applications,
+  signal processing and several games are implemented in Elm. HQ in Switzerland.
 * [Illuminate](https://www.goilluminate.com) ([Github](https://github.com/GoIlluminate)) -
-  Illuminate equips radiology departments with critical data to save time 
-  and money, improve quality and safety, monitor productivity     
+  Illuminate equips radiology departments with critical data to save time
+  and money, improve quality and safety, monitor productivity
   and efficiency, and enhance diagnostic accuracy.
 * [Pacific Health Dynamics](https://www.pacificdynamics.com.au/)
   ([GitHub](https://github.com/Pacific-Health-Dynamics/)) - PHD specialises in
@@ -249,6 +279,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 * [Acko Insurance](https://www.acko.com/) ([Github](https://github.com/ackotech)) - 
   Acko is an Insurance company from India with over 20 million customers
+* [Corvus Insurance](https://www.corvusinsurance.com/)
+  ([GitHub](https://github.com/corvusinsurance/)) - Corvus builds Smart
+  Commercial Insurance Products: policies built on data-driven underwriting
+  (using Elm, Elixir, and Python). Based in Boston, with a flock that spans
+  throughout the United States.
 * [Coya](https://coya.com/)
   ([GitHub](https://github.com/coyainsurance/)) -
   Coya is a German digital insurance. Definitely different:
@@ -258,7 +293,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Insurello](https://insurello.se) ([GitHub](https://github.com/insurello)) -
    Insurello is a Swedish InsurTech company that helps people get compensation
    from their insurance companies.
-
+* [Prima](http://www.prima.it) ([GitHub](https://github.com/primait)) -
+   Prima Assicurazioni is an Italian insurance company with a focus on cutting 
+   edge technologies.
 
 #### IoT
 
@@ -313,6 +350,9 @@ codebase to increase even more over the next year.
 
 #### Logistics
 
+* [BravoTran](https://bravotran.workable.com) ([GitHub](https://github.com/bravotran)) -
+Back office automation for freight forwarding companies, spinoff from HubTran.
+Fully remote international team, headquartered in Chicago.
 * [HubTran](https://engineering.hubtran.com) ([GitHub](https://github.com/hubtran)) -
 Back office automation for transportation companies.
 Fully remote team, headquartered in Chicago.
@@ -361,7 +401,10 @@ understand their audiences. Remote engineering team, based in London.
   ([GitHub](https://github.com/pivotaltracker)) -
   Pivotal Tracker provide a project management tool for agile software
   development teams.
-
+* [StructionSite](https://structionsite.com/) 
+([GitHub](https://github.com/StructionSite)) - Video and photo 
+documentation for the construction industry for automated 
+tracking and recording of building site progress.
 
 #### Product Sampling
 
@@ -403,6 +446,14 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
   sales.
 
 
+#### Security
+
+* [Ava Security](https://www.avasecurity.com/) - Ava Security is a global
+  technology company that protects people and assets with proactive video
+  security and human-centric data loss protection. Offices in UK, Norway and
+  USA.
+
+
 #### Social Media
 
 * [wonktonk](https://wonktonk.com/) - Where policy wonks propose and refine
@@ -411,6 +462,8 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
 
 #### Software
 
+* [Deepgram](https://deepgram.com)
+  ([Github](https://github.com/deepgram)) - Speech AI Platform for transcription and understanding. Deepgram is a distributed team.
 * [Fission](https://fission.codes) ([GitHub](https://github.com/fission-suite)) - 
 is a web native application platform that 
 includes app hosting, public + private files, end-to-end encryption, and an 
@@ -428,6 +481,13 @@ since 2016. Microsoft's HQ is in Redmond, Washington, USA.
 The team that writes Elm is distributed.
 More detail on Elm at Microsoft in 
 [Elm Town Podcast Episode 43](https://elmtown.simplecast.fm/it-just-goes-on-and-on).
+* [Unison](https://www.unisonweb.org/)
+  ([GitHub](https://github.com/unisonweb/codebase-ui)) is an open source
+  functional programming language based on a simple idea with big implications:
+  code is content-addressed and immutable. Unison uses Elm for [Unison
+  Share](https://share.unison-lang.org/) (community hub) and the local UI that
+  ships with the Unison Programming Language. Unison is a distributed team,
+  based across North America.
 
 
 #### Sustainability Technology
