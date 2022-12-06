@@ -209,6 +209,12 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   MackeyRMS is used by many of the world’s leading investment managers to 
   organize key investment workflows, engender trust from investors, and 
   streamline regulatory and compliance oversight.
+* [Smallbrooks](https://www.smallbrooks.com) -
+  Copenhagen Denmark -
+  Smallbrooks sell Saas crowdfunding platforms. Most of our user clients are
+  written in Elm and we have 150.000+ lines of Elm code in production.  We have
+  fun, so come work for us. We are fans of functional programming and use Scala
+  on the backend and NixOS as dev environment.
 * [treefin](https://www.treefin.com) ([GitHub](https://github.com/treefin)) – 
   treefin (Munich) is a German language mobile application that organizes your
   finances. Beyond our app, we work on many exciting projects of personal finance 
