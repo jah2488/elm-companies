@@ -448,10 +448,10 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
 
 #### Security
 
-* [Ava Security](https://www.avasecurity.com/) - Ava Security is a global
-  technology company that protects people and assets with proactive video
-  security and human-centric data loss protection. Offices in UK, Norway and
-  USA.
+* [Next DLP](https://www.nextdlp.com/) - Next DLP's mission is to build the next
+  generation of cyber security - disrupting the data loss prevention (DLP)
+  market with our innovative, cloud native, ML powered platform. Office in
+  London UK, with over half the frontend team working remotely.
 
 
 #### Social Media
