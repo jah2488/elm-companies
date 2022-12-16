@@ -202,7 +202,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Basiq is the best aggregation platform for acquiring financial data.
   We provide secure access to hundreds of financial institutions through 
   a simple set of RESTful APIs.
-* [Caribou](https://www.caribou.com/) ([GitHub](https://github.com/caribou-oss)) -
+* [Caribou](https://www.caribou.com/) ([GitHub](https://github.com/caribou-oss))
+  Washington DC, USA -
   Caribou allows customers to take control of their car payments by 
   refinancing their auto loans. We also allow customers to shop for 
   car insurance through our insurance platform which is built in Elm.
