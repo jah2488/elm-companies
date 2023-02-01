@@ -43,14 +43,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   [active community](https://discord.gg/MeRxXKW) of open source contributors.
   
 #### Communications
-* [Gripeless](https://usegripeless.com) ([GitHub](https://github.com/gripeless)) -
-  We offer a widget that you can install on your website which is built entirely
-  in Elm. Based in Poland, Gripeless improves products with user complaints.
 * [Snapview](https://snapview.net) ([GitHub](https://github.com/snapview)) - 
   German company that produces software for web-based video consultations.
   The frontend is written in Elm and TypeScript, the backend in Rust. Legacy
   components also use JavaScript, C# and C++.
-* [Virtual Airwaves](https://virtualairwaves.com) - our web client for many-to-many push-to-talk communications is [written in Elm](https://cb.virtualairwaves.com). Virtual Airwaves is located in Sunnyvale, California. 
 
 #### Consulting
 * [Adrima](https://adrima.es)
@@ -431,8 +427,6 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
   Make your online life easier by keeping all your favorite websites organized
   in a visually-appealing, personalized environment. Symbaloo is based in Delft,
   The Netherland.
-* [RexPad](https://www.rexpad.com/) -
-  Nimble collaborative note-taking.
 
 
 #### Real Estate
@@ -457,12 +451,6 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
   generation of cyber security - disrupting the data loss prevention (DLP)
   market with our innovative, cloud native, ML powered platform. Office in
   London UK, with over half the frontend team working remotely.
-
-
-#### Social Media
-
-* [wonktonk](https://wonktonk.com/) - Where policy wonks propose and refine
-  solutions to challenging public problems
 
 
 #### Software
@@ -493,13 +481,6 @@ More detail on Elm at Microsoft in
   Share](https://share.unison-lang.org/) (community hub) and the local UI that
   ships with the Unison Programming Language. Unison is a distributed team,
   based across North America.
-
-
-#### Sustainability Technology
-
-* [imby.bio](http://imby.bio/)
-  ([Gitlab](https://gitlab.com/imby.bio), [GitHub](https://github.com/imbybio/)) -
-  imby.bio helps individuals bring nature back in to their urban environment.
 
 
 #### Travel
