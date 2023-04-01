@@ -253,7 +253,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [MyMedsAndMe](https://mymedsandme.com/) ([GitHub](https://github.com/MyMedsAndMe)) -
   fully configurable drug safety reporting solution, supporting adverse events and product
   quality complaint intake across all channels, languages, and reporter types. 160k
-  lines of Elm code.
+  lines of Elm code. Company is based in UK.
 * [Pacific Health Dynamics](https://www.pacificdynamics.com.au/)
   ([GitHub](https://github.com/Pacific-Health-Dynamics/)) - PHD specialises in
   comprehensive health insurance tech solutions for risk management in Private 
