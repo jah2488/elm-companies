@@ -196,8 +196,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 * [Acima](https://www.acima.com/) -
   Draper, Utah, USA -
-  Acima, a sub-division of upbound, offers a flexible, lease-to-own solution with no credit needed for you to
-  take home furniture, electronics, appliances, and more. We have a checkout modal built in Elm.
+  Acima, a sub-division of upbound, offers a flexible, lease-to-own solution
+  with no credit needed for you to take home furniture, electronics, appliances,
+  and more. We have a checkout modal built in Elm.
 * [Basiq](https://basiq.io/) ([GitHub](https://github.com/basiqio))
   Basiq is the best aggregation platform for acquiring financial data.
   We provide secure access to hundreds of financial institutions through 
