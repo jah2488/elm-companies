@@ -455,7 +455,7 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
 
 #### Software
 
-* [Airsequel](https://www.airsequel.com) - 
+* [Airsequel](https://www.airsequel.com) ([GitHub](https://github.com/Airsequel)) - 
     Backend as a Service powered by SQLite and GraphQL.
     Including a spreadsheet UI, a SQL workbench, and a dashboard builder.
     The team is distributed across Europe.
