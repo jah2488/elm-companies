@@ -455,6 +455,10 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
 
 #### Software
 
+* [Airsequel](https://www.airsequel.com) - 
+    Backend as a Service powered by SQLite and GraphQL.
+    Including a spreadsheet UI, a SQL workbench, and a dashboard builder.
+    The team is distributed across Europe.
 * [Deepgram](https://deepgram.com)
   ([Github](https://github.com/deepgram)) - Speech AI Platform for transcription and understanding. Deepgram is a distributed team.
 * [Fission](https://fission.codes) ([GitHub](https://github.com/fission-suite)) - 
