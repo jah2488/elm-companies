@@ -435,11 +435,9 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
 * [Day One](https://www.dayoneapp.com/)
   ([GitHub](https://github.com/bloom)) -
   Day One is a simple and beautiful way to archive your life.
-* [Gingko](https://gingko.io) ([GitHub](https://github.com/gingko/client)) -
+* [Gingko](https://gingkowriter.com/) ([GitHub](https://github.com/gingko/client)) -
   "Outliner + index cards" for planning, organizing, and drafting complex
   documents.
-* [Level](https://level.app) ([GitHub](https://github.com/levelhq/level)) - 
-  Distraction-free communication for software teams.
 * [Symbaloo](https://www.symbaloo.com) ([GitHub](https://github.com/symbaloo))
   Make your online life easier by keeping all your favorite websites organized
   in a visually-appealing, personalized environment. Symbaloo is based in Delft,
