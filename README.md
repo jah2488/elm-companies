@@ -98,6 +98,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   We're working with companies all over the world from a single-person business
   to large corporates. We are a solid remote-first firm with a high emphasis on
   people and clear communication.
+* [SwiftCom](https://swiftcom.app/) ([Github](https://github.com/SwiftComZA)) -
+  We build full-stack Web Apps using Elm & Lamdera, working with funded startups
+  and enterprise clients. Our team builds projects including dashboards,
+  platforms, portals, ecommerce and SAAS products. We are based in South Africa.
 * [Test Double](http://testdouble.com)
   ([GitHub](https://github.com/testdouble)) - Test Double is an agency
   of highly-skilled developers on a mission to improve how the world
