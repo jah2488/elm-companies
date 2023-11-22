@@ -259,6 +259,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Illuminate equips radiology departments with critical data to save time
   and money, improve quality and safety, monitor productivity
   and efficiency, and enhance diagnostic accuracy.
+* [MyMedsAndMe](https://mymedsandme.com) ([GitHub](https://github.com/MyMedsAndMe)) -
+  UK - Fully configurable drug safety reporting solution,
+  supporting adverse events and product quality complaint intake across all channels,
+  languages, and reporter types.
+  160k lines of Elm code.
 * [Pacific Health Dynamics](https://www.pacificdynamics.com.au/)
   ([GitHub](https://github.com/Pacific-Health-Dynamics/)) - PHD specialises in
   comprehensive health insurance tech solutions for risk management in Private 
