@@ -255,6 +255,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Dividat makes a small video game console with a large controller for fall
   prevention and other therapeutic applications. The client applications,
   signal processing and several games are implemented in Elm. HQ in Switzerland.
+* [Hint Health](https://www.hint.com) ([Github](https://github.com/hinthealth)) - 
+  USA, San Francisco - Membership management platform for direct care.
 * [Illuminate](https://www.goilluminate.com) ([Github](https://github.com/GoIlluminate)) -
   Illuminate equips radiology departments with critical data to save time
   and money, improve quality and safety, monitor productivity
@@ -402,9 +404,10 @@ understand their audiences. Remote engineering team, based in London.
 * [KOVnet](http://www.kovnet.nl)
   ([GitHub](https://github.com/kdvnet)) - Planning for daycare centers.
   Planning children and careworkers, invoicing parents.
-* [Wejoinin](https://www.wejoinin.com)
-  ([GitHub](https://github.com/wejoinin)) - Signup sheets for event planning
-  and volunteer management.
+* [Spottt](https://www.spottt.fr) ([GitHub](https://github.com/Spottt)) - 
+  France - Location reservation management system with interactive maps.
+* [Wejoinin](https://www.wejoinin.com) ([GitHub](https://github.com/wejoinin)) -
+  Signup sheets for event planning and volunteer management.
 
 [IBM]: https://www.ibm.com/au-en/
 [Decision Composer]: https://decision-composer.ibm.com/
