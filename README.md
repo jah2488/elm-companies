@@ -123,6 +123,12 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   located around the globe (Germany, UK, India & Sweden). We are well versed 
   in functional programming and strive to build quality software.
 
+#### Culture & Media
+
+* [Les Archives du spectacle](https://www.lesarchivesduspectacle.net) - An online
+  French database covering performing arts (theatre, dance, opera, puppetry, etc.)
+  mostly in the French-speaking world. Elm is mainly used for internal tools
+  and some client work, as the website is a classic server-rendered PHP site.
 
 #### E-commerce
 
