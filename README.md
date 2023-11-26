@@ -363,12 +363,14 @@ codebase to increase even more over the next year.
 
 #### Log Management
 
-* [Humio](https://www.humio.com/)
-   ([Github](https://github.com/humio)) - Humio is is a log management platform 
+* [CrowdStrike](https://www.crowdstrike.com)
+   ([Humio Github](https://github.com/humio),
+   [CrowdStrike Github](https://github.com/CrowdStrike)) -
+   CrowdStrike is is a log management platform
    purpose-built for the scale of today’s data volumes by enabling users to Log 
    Everything to Answer Anything, all in Real-Time. We are a distributed team, 
-   mostly in Denmark and the US. The front end is nearly 100% Elm (95k lines 
-   of Elm code). 
+   mostly in Denmark and the US. The front end is nearly 100% Elm (> 100k lines 
+   of Elm code).
 
 
 #### Logistics
