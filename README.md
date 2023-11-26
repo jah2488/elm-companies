@@ -334,28 +334,32 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### IT
 
-* [Blissfully](https://www.blissfully.com/) ([GitHub](https://github.com/Blissfully)) -
-  Blissfully is a SaaS management platform, providing visibility into an organizations 
+* [Vendr](https://www.vendr.com) -
+  Vendr is a SaaS management platform, providing visibility into an organizations 
   SaaS apps' usage and spend, along with powerful workflows to manage change.
-  Headquarters in NYC, engineering is remote friendly, with 50% outside NYC.
-* [Stax](https://www.stax.io/) - Secure platform to AWS cloud management and monitoring. Melbourne, Australia.
+* [Stax](https://www.stax.io/) -
+  Secure platform to AWS cloud management and monitoring.
+  Melbourne, Australia.
 
 
 #### LawTech
 
-* [Azara](https://www.azara.io/) ([GitHub](https://github.com/azara)) - 
-  Canada - Azara is a set of web and mobile tools that keeps your cannabis business compliant and make regulation documentation easy. Azara stays up to date with regulations and assists in reducing your risk of fines from State audits.
-* [CalculoJuridico](https://calculojuridico.com.br/) 
-([Github](https://github.com/CalculoJuridico)) - CalculoJuridico is a lawtech
-solution to help Brazilian lawyers calculate their client retirement options.
-Our new front-end is being rebuild from zero with Elm as of September 2018.
-* [Scrive](https://scrive.com) ([Github](https://github.com/scrive)) - Sweden -
-Scrive is the Nordic market leader in electronic signature solutions. Our whole
-product makes heavy use of functional programming in its implementation and 
-recently we've started to implement more of our frontend in Elm. We now have 
-an admin console written entirely in Elm, and our electronic ID service 
-exclusively uses elm for its frontend. We intend for the amount of elm in our
-codebase to increase even more over the next year.
+* [Azara](https://www.azara.io) ([GitHub](https://github.com/azara)) - 
+  Canada - Azara is a set of web and mobile tools
+  that keeps your cannabis business compliant and make regulation documentation easy.
+  Azara stays up to date with regulations
+  and assists in reducing your risk of fines from State audits.
+* [CalculoJuridico](https://calculojuridico.com.br/)
+  ([Github](https://github.com/CalculoJuridico)) -
+  Lawtech solution to help Brazilian lawyers calculate their client retirement options.
+  Our new front-end is being rebuild from zero with Elm as of September 2018.
+* [Scrive](https://scrive.com) ([Github](https://github.com/scrive)) -
+  Sweden - Scrive is the Nordic market leader in electronic signature solutions.
+  Our whole product makes heavy use of functional programming in its implementation and 
+  recently we've started to implement more of our frontend in Elm. We now have 
+  an admin console written entirely in Elm, and our electronic ID service 
+  exclusively uses elm for its frontend. We intend for the amount of elm in our
+  codebase to increase even more over the next year.
 
 #### Location Marketing
 
