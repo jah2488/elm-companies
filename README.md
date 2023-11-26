@@ -449,7 +449,7 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
 * [Symbaloo](https://www.symbaloo.com) ([GitHub](https://github.com/symbaloo))
   Make your online life easier by keeping all your favorite websites organized
   in a visually-appealing, personalized environment. Symbaloo is based in Delft,
-  The Netherland.
+  The Netherland. 190k lines of Elm code.
 
 
 #### Real Estate
