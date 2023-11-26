@@ -9,6 +9,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### Automotive
 
+* [Arrival](https://arrival.com) -
+  British electric vehicle manufacturer.
+  Uses Elm in at least one team according to @gampleman.
 * [CARFAX](https://www.carfax.com/)
   ([GitHub](https://github.com/CARFAX)) - CARFAX provide a comprehensive
   vehicle history database for North America.
