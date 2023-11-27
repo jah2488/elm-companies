@@ -256,7 +256,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [treefin](https://www.treefin.com) ([GitHub](https://github.com/treefin)) –
   treefin (Munich) is a German language mobile application that organizes your
   finances. Beyond our app, we work on many exciting projects of personal finance
-  management. A great deal of the front-end is written in elm.
+  management. A great deal of the front-end is written in Elm.
 
 #### Healthcare
 
@@ -272,7 +272,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   objective evidence as a core utility to the treatment of mental health and
   chronic diseases. Our proprietary technology leverages analytic and digital
   tools to prevent, manage and reverse treatable diseases. The frontend of our
-  data analytical platform [NeuroBlu](https://www.neuroblu.ai/) is implemented in elm.
+  data analytical platform [NeuroBlu](https://www.neuroblu.ai/) is implemented in Elm.
 * [Illuminate](https://www.goilluminate.com) ([GitHub](https://github.com/GoIlluminate)) -
   Illuminate equips radiology departments with critical data to save time
   and money, improve quality and safety, monitor productivity
@@ -365,7 +365,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Our whole product makes heavy use of functional programming in its implementation and
   recently we've started to implement more of our frontend in Elm. We now have
   an admin console written entirely in Elm, and our electronic ID service
-  exclusively uses elm for its frontend. We intend for the amount of elm in our
+  exclusively uses Elm for its frontend. We intend for the amount of Elm in our
   codebase to increase even more over the next year.
 
 #### Location Marketing
