@@ -267,7 +267,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [HAMBS](https://www.hambs.com.au/)
   ([GitHub](https://github.com/Pacific-Health-Dynamics/)) - HAMBS specialises in
   comprehensive health insurance tech solutions for risk management in Private
-  Health Funds. Based in Adelaide.
+  Health Funds. Based in Adelaide, Australia.
   The primary app is 335k+ lines of Elm in front of a mixed C# / Kotlin backend.
 * [Hint Health](https://www.hint.com) ([GitHub](https://github.com/hinthealth)) -
   USA, San Francisco - Membership management platform for direct care.
