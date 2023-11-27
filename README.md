@@ -380,7 +380,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [CrowdStrike](https://www.crowdstrike.com)
    ([Humio Github](https://github.com/humio),
    [CrowdStrike Github](https://github.com/CrowdStrike)) -
-   CrowdStrike is is a log management platform
+   CrowdStrike is a log management platform
    purpose-built for the scale of today’s data volumes by enabling users to Log
    Everything to Answer Anything, all in Real-Time. We are a distributed team,
    mostly in Denmark and the US. The front end is nearly 100% Elm (> 100k lines
