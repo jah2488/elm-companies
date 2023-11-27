@@ -264,6 +264,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Dividat makes a small video game console with a large controller for fall
   prevention and other therapeutic applications. The client applications,
   signal processing and several games are implemented in Elm. HQ in Switzerland.
+* [HAMBS](https://www.hambs.com.au/)
+  ([GitHub](https://github.com/Pacific-Health-Dynamics/)) - HAMBS specialises in
+  comprehensive health insurance tech solutions for risk management in Private
+  Health Funds. Based in Adelaide.
+  The primary app is 335k+ lines of Elm in front of a mixed C# / Kotlin backend.
 * [Hint Health](https://www.hint.com) ([GitHub](https://github.com/hinthealth)) -
   USA, San Francisco - Membership management platform for direct care.
 * [Holmusk](https://www.holmusk.com/) ([GitHub](https://github.com/Holmusk)) -
@@ -282,11 +287,6 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   supporting adverse events and product quality complaint intake across all channels,
   languages, and reporter types.
   160k lines of Elm code.
-* [HAMBS](https://www.hambs.com.au/)
-  ([GitHub](https://github.com/Pacific-Health-Dynamics/)) - HAMBS specialises in
-  comprehensive health insurance tech solutions for risk management in Private
-  Health Funds. Based in Adelaide.
-  The primary app is 335k+ lines of Elm in front of a mixed C# / Kotlin backend.
 * [SMRxT](https://nomiadherence.com/)
   ([Blog](https://engineering.smrxt.com/)) - SMRxT’s medication adherence
   system, Nomi, records patient medication behavior as it happens. By using
