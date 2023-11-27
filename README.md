@@ -39,28 +39,28 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Cachix](https://cachix.org/) ([GitHub](https://github.com/cachix/elm2nix)) -
   Build Nix packages once and share them for good.
 * [Concourse CI](https://concourse-ci.org)
-  ([Github](https://github.com/concourse/concourse/)) - Concourse CI is a
+  ([GitHub](https://github.com/concourse/concourse/)) - Concourse CI is a
   container-based open-source continuous thing-doer written in Go with an Elm
   UI and a powerful CLI. Concourse is backed by a team at
   [Pivotal Software](https://pivotal.io/concourse) in Toronto, Canada and an
   [active community](https://discord.gg/MeRxXKW) of open source contributors.
-  
+
 #### Communications
-* [Snapview](https://snapview.net) ([GitHub](https://github.com/snapview)) - 
+* [Snapview](https://snapview.net) ([GitHub](https://github.com/snapview)) -
   German company that produces software for web-based video consultations.
   The frontend is written in Elm and TypeScript, the backend in Rust. Legacy
   components also use JavaScript, C# and C++.
 
 #### Consulting
 * [Adrima](https://adrima.es)
-  ([Github](https://github.com/AdrianRibao))
+  ([GitHub](https://github.com/AdrianRibao))
   ([Medium](https://medium.com/@adrian_ribao)) -
   Adrima is a Spanish development company with more than 10 years of experience
   who loves building software using the greatest technologies. We use Elm
   extensively in our [product related to employment](https://empleo.digital).
-* [BEC Systems](http://bec-systems.com) - BEC is a consulting company located 
-  in the Unites States helping companies develop full stack 
-  solutions using [embedded Linux](http://yoedistro.org), Cloud, and 
+* [BEC Systems](http://bec-systems.com) - BEC is a consulting company located
+  in the Unites States helping companies develop full stack
+  solutions using [embedded Linux](http://yoedistro.org), Cloud, and
   [IoT technologies](http://simpleiot.org).
 * [Bekk](https://www.bekk.no/) ([GitHub](https://github.com/bekk)) -
   Bekk is a Norwegian consulting company with more than 400 employees.
@@ -73,7 +73,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   studio for strategy, design and code in Berlin, Germany. We build mobile games
   and web applications with Elm and other technologies
 * [Driebit](https://www.driebit.nl/nl/about)
-  ([Github](https://github.com/driebit/)) - Web development agency based in
+  ([GitHub](https://github.com/driebit/)) - Web development agency based in
   Amsterdam. We work on projects that contribute to positive change.
   [These](https://github.com/driebit/elm-projects) are some of the projects that use Elm.
 * [Folq](https://folq.no/)
@@ -101,7 +101,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   We're working with companies all over the world from a single-person business
   to large corporates. We are a solid remote-first firm with a high emphasis on
   people and clear communication.
-* [SwiftCom](https://swiftcom.app/) ([Github](https://github.com/SwiftComZA)) -
+* [SwiftCom](https://swiftcom.app/) ([GitHub](https://github.com/SwiftComZA)) -
   We build full-stack Web Apps using Elm & Lamdera, working with funded startups
   and enterprise clients. Our team builds projects including dashboards,
   platforms, portals, ecommerce and SAAS products. We are based in South Africa.
@@ -115,15 +115,15 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   With over 10 years of experience, offices in major tech hubs, and a staff of
   developers and designers from startup backgrounds, thoughtbot can assist in
   all steps of the business and development process.
-* [Webbhuset](https://webbhuset.se) ([GitHub](https://github.com/webbhuset)) - 
-  Is a consultancy firm based in Gothenburg & Stockholm, Sweden 
+* [Webbhuset](https://webbhuset.se) ([GitHub](https://github.com/webbhuset)) -
+  Is a consultancy firm based in Gothenburg & Stockholm, Sweden
   that Develops E-Commerce websites for some of the world's biggest brands
-  including L'ORÉAL, Mary Kay and HaperCollins. 
+  including L'ORÉAL, Mary Kay and HaperCollins.
   They have deployed 6 Elm SPAs on behalf of their clients in the past two years.
-  More detail in this 
+  More detail in this
   [Elm Europe 2019 Talk](https://youtu.be/YV_qrjN8bRA?t=68)
-* [Zeit.dev](https://zeit.io) - Zeit.dev is an international team of talents 
-  located around the globe (Germany, UK, India & Sweden). We are well versed 
+* [Zeit.dev](https://zeit.io) - Zeit.dev is an international team of talents
+  located around the globe (Germany, UK, India & Sweden). We are well versed
   in functional programming and strive to build quality software.
 
 #### Culture & Media
@@ -142,11 +142,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Rakuten](https://global.rakuten.com/corp/)
   ([GitHub](https://rakutentech.github.io/)) - Global electronic commerce and
   Internet company based in Japan
-* [Zalora](https://zalora.com/) - Based in Singapore, Zalora is the leading 
-  fashion e-commerce shop in Southeast Asia. We utilize Elm for our shop's 
+* [Zalora](https://zalora.com/) - Based in Singapore, Zalora is the leading
+  fashion e-commerce shop in Southeast Asia. We utilize Elm for our shop's
   catalog, improving the customer's experience when shopping with us.
 * [Bellroy](https://bellroy.com/) - Bellroy is an Australian accessories brand
-  making carry goods, including bags, folios, wallets, pouches, phone cases, 
+  making carry goods, including bags, folios, wallets, pouches, phone cases,
   and key covers. [Post about Elm at Bellroy](http://nonullpointers.com/posts/2019-05-28-side-effects-of-elm-in-production.html).
 
 #### Education
@@ -166,15 +166,15 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/dailydrip)) -
   DailyDrip is a continuous education platform.  Daily bite-sized videos on new tech.
 * [eSpark Learning](https://www.esparklearning.com)
-  ([Blog](https://medium.com/espark-engineering-blog/), 
-  [Github](https://github.com/espark/)) -
+  ([Blog](https://medium.com/espark-engineering-blog/),
+  [GitHub](https://github.com/espark/)) -
   We help teachers in public schools provide fun, differentiated, and measurably
   effective lessons for their K-8 students. eSpark is proud to use and support
   Elm. Many of the organizers of the [Elm in the
-  Spring](https://elminthespring.org) conference are part of the eSpark team, 
+  Spring](https://elminthespring.org) conference are part of the eSpark team,
   headquartered in Chicago and San Francisco (alongside remote locations).
 * [Mimo](https://getmimo.com)
-  ([Github](https://github.com/getmimo)) -
+  ([GitHub](https://github.com/getmimo)) -
   We're on a mission to find the best way to learn in a digital world.
 * [NoRedInk](https://www.noredink.com/)
   ([GitHub](https://github.com/NoRedInk)) -
@@ -197,12 +197,12 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/circuithub)) - CircuitHub provide on demand
   electronics manufacturing with instant quotes.
 
-#### Field Marketing 
+#### Field Marketing
 
-* [PINATA](https://www.gopinata.com/) ([GitHub](https://github.com/pinata-llc)) - 
-  PINATA is powerful and easy-to-use software, purpose-built for the consumer 
+* [PINATA](https://www.gopinata.com/) ([GitHub](https://github.com/pinata-llc)) -
+  PINATA is powerful and easy-to-use software, purpose-built for the consumer
   brand industry to manage tasks and goals, measure outcomes, and maximize ROI.
-  HQ in NYC, remote-friendly engineering team. 
+  HQ in NYC, remote-friendly engineering team.
   All new front-end code is written in Elm.
 
 #### FinTech
@@ -214,38 +214,38 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   and more. We have a checkout modal built in Elm.
 * [Basiq](https://basiq.io/) ([GitHub](https://github.com/basiqio))
   Basiq is the best aggregation platform for acquiring financial data.
-  We provide secure access to hundreds of financial institutions through 
+  We provide secure access to hundreds of financial institutions through
   a simple set of RESTful APIs.
 * [Caribou](https://www.caribou.com/) ([GitHub](https://github.com/caribou-oss))
   Washington DC, USA -
-  Caribou allows customers to take control of their car payments by 
-  refinancing their auto loans. We also allow customers to shop for 
+  Caribou allows customers to take control of their car payments by
+  refinancing their auto loans. We also allow customers to shop for
   car insurance through our insurance platform which is built in Elm.
 * [Featurespace](http://www.featurespace.com/) ([GitHub](https://github.com/Featurespace))
   is the world leader in enterprise financial crime prevention for fraud and
-  anti-money laundering. Featurespace invented Adaptive Behavioral Analytics 
+  anti-money laundering. Featurespace invented Adaptive Behavioral Analytics
   and Automated Deep Behavioral Networks, both of which are available through 
-  the ARIC platform, a real-time machine learning software that risk scores 
-  millions of events each second in more than 180 countries. The company 
-  [chooses](https://www.youtube.com/watch?v=0AosqGTEa0Q) to build its user interface 
-  with Elm, and with over 300k lines of code it is one of the largest users of Elm 
+  the ARIC platform, a real-time machine learning software that risk scores
+  millions of events each second in more than 180 countries. The company
+  [chooses](https://www.youtube.com/watch?v=0AosqGTEa0Q) to build its user interface
+  with Elm, and with over 300k lines of code it is one of the largest users of Elm
   in the world.
-* [FörsäkringsGirot](https://www.fgirot.se/) - 
+* [FörsäkringsGirot](https://www.fgirot.se/) -
   FörsäkringsGirot is a Swedish company that helps major companies manage their
   employee pensions, and ensures everyone gets paid correctly.
 * [iZettle](https://www.izettle.com) ([GitHub](https://github.com/iZettle))
   iZettle is a one-stop shop for cutting-edge commerce tools — offering
   everything you need to take quick payments, ease day-to-day management,
   and get the funding to grow.
-* [MackeyRMS](https://www.mackeyrms.com/) 
-  ([Github](https://github.com/MackeyRMS)) 
+* [MackeyRMS](https://www.mackeyrms.com/)
+  ([GitHub](https://github.com/MackeyRMS))
   Boston USA -
   MackeyRMS is a SaaS-based research management platform engineered to optimize
-  the way analysts and portfolio managers generate, share, debate and act on 
-  investment research conducted for actively managed portfolios. Relied upon 
-  as a single system of record for research supporting the investment process, 
-  MackeyRMS is used by many of the world’s leading investment managers to 
-  organize key investment workflows, engender trust from investors, and 
+  the way analysts and portfolio managers generate, share, debate and act on
+  investment research conducted for actively managed portfolios. Relied upon
+  as a single system of record for research supporting the investment process,
+  MackeyRMS is used by many of the world’s leading investment managers to
+  organize key investment workflows, engender trust from investors, and
   streamline regulatory and compliance oversight.
 * [Smallbrooks](https://www.smallbrooks.com) -
   Copenhagen Denmark -
@@ -253,20 +253,27 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   written in Elm and we have 150.000+ lines of Elm code in production.  We have
   fun, so come work for us. We are fans of functional programming and use Scala
   on the backend and NixOS as dev environment.
-* [treefin](https://www.treefin.com) ([GitHub](https://github.com/treefin)) – 
+* [treefin](https://www.treefin.com) ([GitHub](https://github.com/treefin)) –
   treefin (Munich) is a German language mobile application that organizes your
-  finances. Beyond our app, we work on many exciting projects of personal finance 
+  finances. Beyond our app, we work on many exciting projects of personal finance
   management. A great deal of the front-end is written in elm.
 
 #### Healthcare
 
-* [Dividat](https://www.dividat.com) ([Github](https://github.com/dividat)) -
+* [Dividat](https://www.dividat.com) ([GitHub](https://github.com/dividat)) -
   Dividat makes a small video game console with a large controller for fall
   prevention and other therapeutic applications. The client applications,
   signal processing and several games are implemented in Elm. HQ in Switzerland.
-* [Hint Health](https://www.hint.com) ([Github](https://github.com/hinthealth)) - 
+* [Hint Health](https://www.hint.com) ([GitHub](https://github.com/hinthealth)) -
   USA, San Francisco - Membership management platform for direct care.
-* [Illuminate](https://www.goilluminate.com) ([Github](https://github.com/GoIlluminate)) -
+* [Holmusk](https://www.holmusk.com/) ([GitHub](https://github.com/Holmusk)) -
+  Singapore - Holmusk, a 2019 World Economic Forum Technology Pioneer,
+  is a data science and digital therapeutics company dedicated to establishing
+  objective evidence as a core utility to the treatment of mental health and
+  chronic diseases. Our proprietary technology leverages analytic and digital
+  tools to prevent, manage and reverse treatable diseases. The frontend of our
+  data analytical platform [NeuroBlu](https://www.neuroblu.ai/) is implemented in elm.
+* [Illuminate](https://www.goilluminate.com) ([GitHub](https://github.com/GoIlluminate)) -
   Illuminate equips radiology departments with critical data to save time
   and money, improve quality and safety, monitor productivity
   and efficiency, and enhance diagnostic accuracy.
@@ -277,7 +284,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   160k lines of Elm code.
 * [Pacific Health Dynamics](https://www.pacificdynamics.com.au/)
   ([GitHub](https://github.com/Pacific-Health-Dynamics/)) - PHD specialises in
-  comprehensive health insurance tech solutions for risk management in Private 
+  comprehensive health insurance tech solutions for risk management in Private
   Health Funds. Based in Sydney.
   The primary app is 134k+ lines of Elm in front of a mixed C# / Kotlin backend.
 * [SMRxT](https://nomiadherence.com/)
@@ -292,7 +299,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### Human Resources
 
-* [Culture Amp](https://cultureamp.com) ([Github](https://github.com/cultureamp))
+* [Culture Amp](https://cultureamp.com) ([GitHub](https://github.com/cultureamp))
   Culture Amp makes it easy to collect, understand and act on employee feedback.
   Based in Melbourne with offices in San Francisco, New York, Palo Alto, and London.
 * [TruQu](https://truqu.com/)
@@ -303,7 +310,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### Insurance
 
-* [Acko Insurance](https://www.acko.com/) ([Github](https://github.com/ackotech)) - 
+* [Acko Insurance](https://www.acko.com/) ([GitHub](https://github.com/ackotech)) -
   Acko is an Insurance company from India with over 20 million customers
 * [Corvus Insurance](https://www.corvusinsurance.com/)
   ([GitHub](https://github.com/corvusinsurance/)) - Corvus builds Smart
@@ -314,13 +321,13 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/coyainsurance/)) -
   Coya is a German digital insurance. Definitely different:
   0% administrative burden. 0% paperwork.
-* [Frende Forsikring](https://www.frende.no/) ([Github](https://github.com/Frende)) - 
+* [Frende Forsikring](https://www.frende.no/) ([GitHub](https://github.com/Frende)) -
   Frende Forsikring is a Norwegian insurance company with over 250,000 customers
 * [Insurello](https://insurello.se) ([GitHub](https://github.com/insurello)) -
    Insurello is a Swedish InsurTech company that helps people get compensation
    from their insurance companies.
 * [Prima](http://www.prima.it) ([GitHub](https://github.com/primait)) -
-   Prima Assicurazioni is an Italian insurance company with a focus on cutting 
+   Prima Assicurazioni is an Italian insurance company with a focus on cutting
    edge technologies.
 
 #### IoT
@@ -335,7 +342,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 #### IT
 
 * [Vendr](https://www.vendr.com) -
-  Vendr is a SaaS management platform, providing visibility into an organizations 
+  Vendr is a SaaS management platform, providing visibility into an organizations
   SaaS apps' usage and spend, along with powerful workflows to manage change.
 * [Stax](https://www.stax.io/) -
   Secure platform to AWS cloud management and monitoring.
@@ -344,27 +351,27 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### LawTech
 
-* [Azara](https://www.azara.io) ([GitHub](https://github.com/azara)) - 
+* [Azara](https://www.azara.io) ([GitHub](https://github.com/azara)) -
   Canada - Azara is a set of web and mobile tools
   that keeps your cannabis business compliant and make regulation documentation easy.
   Azara stays up to date with regulations
   and assists in reducing your risk of fines from State audits.
 * [CalculoJuridico](https://calculojuridico.com.br/)
-  ([Github](https://github.com/CalculoJuridico)) -
+  ([GitHub](https://github.com/CalculoJuridico)) -
   Lawtech solution to help Brazilian lawyers calculate their client retirement options.
   Our new front-end is being rebuild from zero with Elm as of September 2018.
-* [Scrive](https://scrive.com) ([Github](https://github.com/scrive)) -
+* [Scrive](https://scrive.com) ([GitHub](https://github.com/scrive)) -
   Sweden - Scrive is the Nordic market leader in electronic signature solutions.
-  Our whole product makes heavy use of functional programming in its implementation and 
-  recently we've started to implement more of our frontend in Elm. We now have 
-  an admin console written entirely in Elm, and our electronic ID service 
+  Our whole product makes heavy use of functional programming in its implementation and
+  recently we've started to implement more of our frontend in Elm. We now have
+  an admin console written entirely in Elm, and our electronic ID service
   exclusively uses elm for its frontend. We intend for the amount of elm in our
   codebase to increase even more over the next year.
 
 #### Location Marketing
 
 * [PinMeTo](http://www.pinmeto.com)
-  ([Github](https://github.com/PinMeTo)) - location based marketing technology
+  ([GitHub](https://github.com/PinMeTo)) - location based marketing technology
   company.
 
 
@@ -374,9 +381,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
    ([Humio Github](https://github.com/humio),
    [CrowdStrike Github](https://github.com/CrowdStrike)) -
    CrowdStrike is is a log management platform
-   purpose-built for the scale of today’s data volumes by enabling users to Log 
-   Everything to Answer Anything, all in Real-Time. We are a distributed team, 
-   mostly in Denmark and the US. The front end is nearly 100% Elm (> 100k lines 
+   purpose-built for the scale of today’s data volumes by enabling users to Log
+   Everything to Answer Anything, all in Real-Time. We are a distributed team,
+   mostly in Denmark and the US. The front end is nearly 100% Elm (> 100k lines
    of Elm code).
 
 
@@ -391,7 +398,7 @@ Fully remote team, headquartered in Chicago.
 * [Logistically](https://logisticallyinc.com) - Transportation management
   SaaS for 3PLs, brokers, and shippers.
 * [Stowga](https://www.stowga.com)
-  ([Github](https://github.com/stowga)) - Stowga is the world's warehousing marketplace. Based in London
+  ([GitHub](https://github.com/stowga)) - Stowga is the world's warehousing marketplace. Based in London
 
 
 #### Market Research
@@ -419,7 +426,7 @@ understand their audiences. Remote engineering team, based in London.
 * [KOVnet](http://www.kovnet.nl)
   ([GitHub](https://github.com/kdvnet)) - Planning for daycare centers.
   Planning children and careworkers, invoicing parents.
-* [Spottt](https://www.spottt.fr) ([GitHub](https://github.com/Spottt)) - 
+* [Spottt](https://www.spottt.fr) ([GitHub](https://github.com/Spottt)) -
   France - Location reservation management system with interactive maps.
 * [Wejoinin](https://www.wejoinin.com) ([GitHub](https://github.com/wejoinin)) -
   Signup sheets for event planning and volunteer management.
@@ -434,9 +441,9 @@ understand their audiences. Remote engineering team, based in London.
   ([GitHub](https://github.com/pivotaltracker)) -
   Pivotal Tracker provide a project management tool for agile software
   development teams.
-* [StructionSite](https://structionsite.com/) 
-([GitHub](https://github.com/StructionSite)) - Video and photo 
-documentation for the construction industry for automated 
+* [StructionSite](https://structionsite.com/)
+([GitHub](https://github.com/StructionSite)) - Video and photo
+documentation for the construction industry for automated
 tracking and recording of building site progress.
 
 #### Product Sampling
@@ -485,28 +492,28 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
 
 #### Software
 
-* [Airsequel](https://www.airsequel.com) ([GitHub](https://github.com/Airsequel)) - 
+* [Airsequel](https://www.airsequel.com) ([GitHub](https://github.com/Airsequel)) -
     Backend as a Service powered by SQLite and GraphQL.
     Including a spreadsheet UI, a SQL workbench, and a dashboard builder.
     The team is distributed across Europe.
 * [Deepgram](https://deepgram.com)
-  ([Github](https://github.com/deepgram)) - Speech AI Platform for transcription and understanding. Deepgram is a distributed team.
-* [Fission](https://fission.codes) ([GitHub](https://github.com/fission-suite)) - 
-is a web native application platform that 
-includes app hosting, public + private files, end-to-end encryption, and an 
-account and authentication system. Developers can build and deploy apps using 
-only client side tech -- including Elm. Users can use the [Drive app](https://drive.fission.codes) 
+  ([GitHub](https://github.com/deepgram)) - Speech AI Platform for transcription and understanding. Deepgram is a distributed team.
+* [Fission](https://fission.codes) ([GitHub](https://github.com/fission-suite)) -
+is a web native application platform that
+includes app hosting, public + private files, end-to-end encryption, and an
+account and authentication system. Developers can build and deploy apps using
+only client side tech -- including Elm. Users can use the [Drive app](https://drive.fission.codes)
 and authenticate using the [Auth lobby](https://auth.fission.codes/), both
-written in Elm. Fission is a distributed team, based in Vancouver, Canada, 
+written in Elm. Fission is a distributed team, based in Vancouver, Canada,
 Nixa, Missouri, USA, and Ghent, Belgium.
-* [Microsoft](https://www.microsoft.com) 
-([GitHub]( https://github.com/Microsoft/elm-json-tree-view)) - 
+* [Microsoft](https://www.microsoft.com)
+([GitHub]( https://github.com/Microsoft/elm-json-tree-view)) -
 the world's second largest software company,
-has used Elm for the frontend of their 
-[customer support system](https://github.com/jah2488/elm-companies/issues/36) 
-since 2016. Microsoft's HQ is in Redmond, Washington, USA. 
+has used Elm for the frontend of their
+[customer support system](https://github.com/jah2488/elm-companies/issues/36)
+since 2016. Microsoft's HQ is in Redmond, Washington, USA.
 The team that writes Elm is distributed.
-More detail on Elm at Microsoft in 
+More detail on Elm at Microsoft in
 [Elm Town Podcast Episode 43](https://elmtown.simplecast.fm/it-just-goes-on-and-on).
 * [Unison](https://www.unisonweb.org/)
   ([GitHub](https://github.com/unisonweb/codebase-ui)) is an open source
@@ -523,10 +530,10 @@ More detail on Elm at Microsoft in
   ([GitHub](https://github.com/BeautifulDestinations)) - Beautiful
   Destinations is the award-winning creative agency behind the largest travel
   community on social media.
-* [Click Travel](http://www.clicktravel.com) - 
-  We’re shaping the future of business travel with our award-winning 
-  corporate travel management and booking platform – built on the 
-  foundations of trust, choice and great people. 
+* [Click Travel](http://www.clicktravel.com) -
+  We’re shaping the future of business travel with our award-winning
+  corporate travel management and booking platform – built on the
+  foundations of trust, choice and great people.
   Based in Birmingham, UK. Hiring remotely anywhere in the UK.
 * [Emirates](https://www.emirates.com/) - National airline of the United Arab Emirates.
 * [AS Tallink Grupp](https://www.tallink.com/)
