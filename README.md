@@ -76,6 +76,12 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/driebit/)) - Web development agency based in
   Amsterdam. We work on projects that contribute to positive change.
   [These](https://github.com/driebit/elm-projects) are some of the projects that use Elm.
+* [Engage](https://engagesoftware.com/)
+  ([GitHub](https://github.com/EngageSoftware/)) -
+  Engage is a web development agency based in St. Louis, Missouri, USA using
+  .NET technologies and Elm to build
+  [registration experiences](https://www.faithenroll.com/) as well as totally
+  custom software.
 * [Folq](https://folq.no/)
   ([GitHub](https://github.com/folq)) -
   Folq is an online marketplace for consulting services. Based in Norway.
