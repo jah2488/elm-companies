@@ -528,6 +528,11 @@ since 2016. Microsoft's HQ is in Redmond, Washington, USA.
 The team that writes Elm is distributed.
 More detail on Elm at Microsoft in
 [Elm Town Podcast Episode 43](https://elmtown.simplecast.fm/it-just-goes-on-and-on).
+* [Pythonian](https://timeseries.pythonian.fr) - Pythonian
+  is a small software company based in Paris, France. It is the editor of
+  a Time Series management system written in Python and with a frontend in Elm,
+  including a sophisticated "formula editor"
+  (see [GitHub](https://github.com/pythonianfr/tsview)).
 * [Unison](https://www.unisonweb.org/)
   ([GitHub](https://github.com/unisonweb/codebase-ui)) is an open source
   functional programming language based on a simple idea with big implications:
