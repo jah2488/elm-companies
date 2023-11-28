@@ -253,6 +253,13 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   MackeyRMS is used by many of the world’s leading investment managers to
   organize key investment workflows, engender trust from investors, and
   streamline regulatory and compliance oversight.
+* [Marvelsoft](https://marvelsoft.net/) - Hong Kong / Tuzla (BiH) -
+  Leading provider of automated trading solutions, redefining the standards of
+  modern technology architectures for trading, by building and servicing the
+  most powerful, open, agile technologies and architectures supporting global
+  trading business workflows. We specialize in Execution Algorithms, Order
+  Management, Market Making, Liquidity Providing, and more. The front-end is
+  written in Electron with TypeScript and Elm.
 * [Smallbrooks](https://www.smallbrooks.com) -
   Copenhagen Denmark -
   Smallbrooks sell Saas crowdfunding platforms. Most of our user clients are
