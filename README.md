@@ -203,15 +203,14 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/circuithub)) - CircuitHub provide on demand
   electronics manufacturing with instant quotes.
 
-#### Field Marketing
+
+#### MarTech
 
 * [PINATA](https://www.gopinata.com/) ([GitHub](https://github.com/pinata-llc)) -
   PINATA is powerful and easy-to-use software, purpose-built for the consumer
   brand industry to manage tasks and goals, measure outcomes, and maximize ROI.
   HQ in NYC, remote-friendly engineering team.
   All new front-end code is written in Elm.
-
-#### MarTech
 
 * [Uncover](https://uncover.co/)
   ([Github](https://github.com/uncover-co)) São Paulo, Brazil -
