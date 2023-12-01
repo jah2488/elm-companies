@@ -528,11 +528,13 @@ since 2016. Microsoft's HQ is in Redmond, Washington, USA.
 The team that writes Elm is distributed.
 More detail on Elm at Microsoft in
 [Elm Town Podcast Episode 43](https://elmtown.simplecast.fm/it-just-goes-on-and-on).
-* [Timeline](https://timeline.co) is an ecosystem of products to empower 
-  financial advisers in the UK with planning and portfolio-management 
-  technologies. Timeline uses Elm to provide UI in some of their tools, 
-  and the usage of Elm grows. Timeline is a distributed team, 
-  based across Europe and South America. 
+* [Timeline](https://timeline.co) is a technology company that provides 
+  financial planning and portfolio management software for advisers. 
+  Our mission is to help millions of people fulfil their financial 
+  goals and retire with confidence. We manage over £3 billion of clients 
+  assets on behalf of financial advisers. Timeline has been using Elm for 
+  over 5 years on its most strategic tools. Our engineering team is 
+  distributed across Europe, Africa and South America.
 * [Unison](https://www.unisonweb.org/)
   ([GitHub](https://github.com/unisonweb/codebase-ui)) is an open source
   functional programming language based on a simple idea with big implications:
