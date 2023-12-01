@@ -211,6 +211,17 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   HQ in NYC, remote-friendly engineering team.
   All new front-end code is written in Elm.
 
+#### MarTech
+
+* [Uncover](https://uncover.co/)
+  ([Github](https://github.com/uncover-co)) São Paulo, Brazil -
+  Uncover is an advanced platform for media optimization and growth.
+  It employs state-of-the-art data integration and artificial intelligence
+  for Marketing Mix Modeling, providing comprehensive ROI measurement
+  and adaptive strategy planning.
+
+  Entire platform frontend is in Elm, currently 122k LOC.
+
 #### FinTech
 
 * [Acima](https://www.acima.com/) -
