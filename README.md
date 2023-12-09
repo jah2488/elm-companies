@@ -522,28 +522,33 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
 * [Deepgram](https://deepgram.com)
   ([GitHub](https://github.com/deepgram)) - Speech AI Platform for transcription and understanding. Deepgram is a distributed team.
 * [Fission](https://fission.codes) ([GitHub](https://github.com/fission-suite)) -
-is a web native application platform that
-includes app hosting, public + private files, end-to-end encryption, and an
-account and authentication system. Developers can build and deploy apps using
-only client side tech -- including Elm. Users can use the [Drive app](https://drive.fission.codes)
-and authenticate using the [Auth lobby](https://auth.fission.codes/), both
-written in Elm. Fission is a distributed team, based in Vancouver, Canada,
-Nixa, Missouri, USA, and Ghent, Belgium.
+  is a web native application platform that
+  includes app hosting, public + private files, end-to-end encryption, and an
+  account and authentication system. Developers can build and deploy apps using
+  only client side tech -- including Elm. Users can use the [Drive app](https://drive.fission.codes)
+  and authenticate using the [Auth lobby](https://auth.fission.codes/), both
+  written in Elm. Fission is a distributed team, based in Vancouver, Canada,
+  Nixa, Missouri, USA, and Ghent, Belgium.
 * [Microsoft](https://www.microsoft.com)
-([GitHub]( https://github.com/Microsoft/elm-json-tree-view)) -
-the world's second largest software company,
-has used Elm for the frontend of their
-[customer support system](https://github.com/jah2488/elm-companies/issues/36)
-since 2016. Microsoft's HQ is in Redmond, Washington, USA.
-The team that writes Elm is distributed.
-More detail on Elm at Microsoft in
-[Elm Town Podcast Episode 43](https://elmtown.simplecast.fm/it-just-goes-on-and-on).
-* [Timeline](https://timeline.co) is a technology company that provides 
-  financial planning and portfolio management software for advisers. 
-  Our mission is to help millions of people fulfil their financial 
-  goals and retire with confidence. We manage over £3 billion of clients 
-  assets on behalf of financial advisers. Timeline has been using Elm for 
-  over 5 years on its most strategic tools. Our engineering team is 
+  ([GitHub]( https://github.com/Microsoft/elm-json-tree-view)) -
+  the world's second largest software company,
+  has used Elm for the frontend of their
+  [customer support system](https://github.com/jah2488/elm-companies/issues/36)
+  since 2016. Microsoft's HQ is in Redmond, Washington, USA.
+  The team that writes Elm is distributed.
+  More detail on Elm at Microsoft in
+  [Elm Town Podcast Episode 43](https://elmtown.simplecast.fm/it-just-goes-on-and-on).
+* [Pythonian](https://timeseries.pythonian.fr) ([GitHub](https://github.com/pythonianfr/tsview)) -
+  Pythonian is a small software company based in Paris, France.
+  It is the editor of a Time Series management system
+  written in Python and with a frontend in Elm,
+  including a sophisticated "formula editor".
+* [Timeline](https://timeline.co) is a technology company that provides
+  financial planning and portfolio management software for advisers.
+  Our mission is to help millions of people fulfil their financial
+  goals and retire with confidence. We manage over £3 billion of clients
+  assets on behalf of financial advisers. Timeline has been using Elm for
+  over 5 years on its most strategic tools. Our engineering team is
   distributed across Europe, Africa and South America.
 * [Unison](https://www.unisonweb.org/)
   ([GitHub](https://github.com/unisonweb/codebase-ui)) is an open source
