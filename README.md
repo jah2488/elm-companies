@@ -519,6 +519,8 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
     Backend as a Service powered by SQLite and GraphQL.
     Including a spreadsheet UI, a SQL workbench, and a dashboard builder.
     The team is distributed across Europe.
+* [Azimutt](https://azimutt.app) ([GitHub](https://github.com/azimuttapp/azimutt)) -
+    Database exploration tool made for large and messy databases.
 * [Deepgram](https://deepgram.com)
   ([GitHub](https://github.com/deepgram)) - Speech AI Platform for transcription and understanding. Deepgram is a distributed team.
 * [Fission](https://fission.codes) ([GitHub](https://github.com/fission-suite)) -
