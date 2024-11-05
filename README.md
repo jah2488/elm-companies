@@ -283,6 +283,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### Healthcare
 
+* [Bayer](https://www.bayer.com/en/) - 
+  Develops [Safetrack](https://val.safetrack-public.bayer.com), 
+  a tool for reporting side effects of pharmaceuticals.
 * [Dividat](https://www.dividat.com) ([GitHub](https://github.com/dividat)) -
   Dividat makes a small video game console with a large controller for fall
   prevention and other therapeutic applications. The client applications,
