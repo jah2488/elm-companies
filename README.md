@@ -58,6 +58,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Adrima is a Spanish development company with more than 10 years of experience
   who loves building software using the greatest technologies. We use Elm
   extensively in our [product related to employment](https://empleo.digital).
+* [Avetta](https://www.avetta.com) - Avetta connects the world's leading organizations with qualified suppliers, contractors, and vendors.
 * [BEC Systems](http://bec-systems.com) - BEC is a consulting company located
   in the Unites States helping companies develop full stack
   solutions using [embedded Linux](http://yoedistro.org), Cloud, and
