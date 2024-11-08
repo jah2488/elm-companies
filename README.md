@@ -25,6 +25,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [CBANC Network](https://www.cbancnetwork.com) - Largest network of banking
   professionals with tools for banks to collaborate as well as manage their
   business. We have converted all new front-end development to Elm.
+* [Nordea](https://www.nordea.com/en) - A universal bank with a 200-year
+  history of supporting and growing the Nordic economies.
+  They have operations at least in Denmark, Finland, Norway and Sweden.
 
 #### Chatbots
 
