@@ -206,7 +206,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### Events & Entertainment
 
-* [DX](https://dx.no/) ([GitHub](https://github.com/fivetentech)) - DX provides innovative solutions for the cinema and events industry, including ticketing, POS, and operational systems. Based in Norway.
+* [DX](https://dx.no/) ([GitHub](https://github.com/fivetentech)) - DX provides 
+innovative solutions for the cinema and events industry, including ticketing, 
+POS, and operational systems. Based in Norway.
 
 #### MarTech
 
