@@ -204,6 +204,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/circuithub)) - CircuitHub provide on demand
   electronics manufacturing with instant quotes.
 
+#### Events & Entertainment
+
+* [DX](https://dx.no/) ([GitHub](https://github.com/fivetentech)) - DX provides 
+innovative solutions for the cinema and events industry, including ticketing, 
+POS, and operational systems. Based in Norway.
 
 #### MarTech
 
