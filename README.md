@@ -277,6 +277,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   written in Elm and we have 150.000+ lines of Elm code in production.  We have
   fun, so come work for us. We are fans of functional programming and use Scala
   on the backend and NixOS as dev environment.
+* [Timeswap](https://timeswap.io/) - Timeswap is a permissionless, oracle-less, non-liquidatable, fixed maturity lending & borrowing protocol.
 * [treefin](https://www.treefin.com) ([GitHub](https://github.com/treefin)) –
   treefin (Munich) is a German language mobile application that organizes your
   finances. Beyond our app, we work on many exciting projects of personal finance
