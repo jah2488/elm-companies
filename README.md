@@ -238,11 +238,6 @@ POS, and operational systems. Based in Norway.
   Basiq is the best aggregation platform for acquiring financial data.
   We provide secure access to hundreds of financial institutions through
   a simple set of RESTful APIs.
-* [Caribou](https://www.caribou.com/) ([GitHub](https://github.com/caribou-oss))
-  Washington DC, USA -
-  Caribou allows customers to take control of their car payments by
-  refinancing their auto loans. We also allow customers to shop for
-  car insurance through our insurance platform which is built in Elm.
 * [Featurespace](http://www.featurespace.com/) ([GitHub](https://github.com/Featurespace))
   is the world leader in enterprise financial crime prevention for fraud and
   anti-money laundering. Featurespace invented Adaptive Behavioral Analytics
