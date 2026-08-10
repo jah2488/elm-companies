@@ -144,8 +144,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   and some client work, as the website is a classic server-rendered PHP site.
 
 #### Customer Feedback
-* [Feedback.one](https://feedback.one) ([GitHub](https://github.com/feedbackone)) - a remote company that helps businesses
-  collect and organize user feedback to make data-driven decisions. We use Elm on the FE, and Rust on the BE.
+* [Feedback.one](https://feedback.one) ([GitHub](https://github.com/feedbackone)) - a
+  remote company that helps businesses collect and organize user feedback to
+  make data-driven decisions. We use Elm on the FE, and Rust on the BE.
 
 #### E-commerce
 
